@@ -69,7 +69,13 @@
      "name": "Guardian Opinion",
      "url": "https://www.theguardian.com/commentisfree/2026/nov/07/pete-hegseth-midterms-consequences"
     }
-   ]
+   ],
+   "points": [
+    "Congress has given Trump an ultimatum to fire Pete Hegseth or face impeachment proceedings.",
+    "Republicans are split over sticking with Trumpism for his final two years.",
+    "Analysts link the swing to the Iran war and living costs."
+   ],
+   "image": "https://live-production.wcms.abc-cdn.net.au/1636bcf20f8e4b9ee544feae9671fe91?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=67&width=862&height=485&imformat=generic"
   },
   {
    "headline": "Rate pain lands on Chalmers as Labor turns on itself",
@@ -89,7 +95,13 @@
      "name": "ABC Business",
      "url": "https://www.abc.net.au/news/2026-11-09/are-there-alternatives-to-interest-rate-rises/107360716"
     }
-   ]
+   ],
+   "points": [
+    "The cash rate is 4.85% after five hikes in 2026; the November vote was split 6 to 3.",
+    "Murray Watt told colleagues to stop undermining Jim Chalmers.",
+    "The Coalition is weighing Andrew Hastie as leader against a rising One Nation."
+   ],
+   "image": "https://i.guim.co.uk/img/media/0a251c36d8f4f67e296c116d611465daf42788cd/212_0_5048_4038/master/5048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5fbb4c6e544906e590cd095d72cc13a"
   },
   {
    "headline": "Victorian Labor polls 18%, behind One Nation, with three weeks to go",
@@ -109,7 +121,8 @@
      "name": "Guardian Australia",
      "url": "https://www.theguardian.com/australia-news/2026/nov/09/one-nation-stuart-bonds-slammed-immigration-comments-ntwnfb"
     }
-   ]
+   ],
+   "image": "https://i.guim.co.uk/img/media/eb1414dc0eeede52985082395d9f3ea36f782c63/1248_827_3346_2677/master/3346.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef908396cea3a6f8b5ba3e8d43c7189c"
   },
   {
    "headline": "Ukraine sets Russia's second-biggest refinery ablaze on eve of peace talks",
@@ -121,7 +134,8 @@
      "name": "ABC News",
      "url": "https://www.abc.net.au/news/2026-11-09/ukrainian-drone-attack-at-russia-kirishi-refinery-woman-dies/107365888"
     }
-   ]
+   ],
+   "image": "https://live-production.wcms.abc-cdn.net.au/7fea7f83d1536842320df86f944342dd?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic"
   },
   {
    "headline": "Netanyahu's rival Eisenkot gets first shot at forming Israel's government",
@@ -137,7 +151,8 @@
      "name": "Guardian World",
      "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government"
     }
-   ]
+   ],
+   "image": "https://i.guim.co.uk/img/media/7eec88b1e0176fdcaf9916606ea9a1c049ff2da6/552_347_2266_1813/master/2266.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=259d3844d49dff824d4482e342bce2f7"
   }
  ],
  "sections": [
@@ -149,31 +164,36 @@
      "headline": "Victoria Barracks stays public after veterans' backlash",
      "body": "The PM has scrapped the sale of four heritage defence sites, including the Sydney and Melbourne barracks, after an audit recommended selling them. Richard Marles denies defence loses out.",
      "source": "Guardian Australia",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles"
+     "url": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
+     "image": "https://i.guim.co.uk/img/media/4de3f4de1a517d63098209ff6451d828346e519e/407_0_4066_3253/master/4066.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da02c40a5c3dafaa3c8be946dc67ebf7"
     },
     {
      "headline": "TikTok grilled over self-harm content",
      "body": "David Pocock pressed TikTok executives at the Senate inquiry into the government's Digital Duty of Care bill.",
      "source": "ABC Politics",
-     "url": "https://www.abc.net.au/news/2026-11-09/federal-politics-live-blog-digital-duty-of-care-/107362100"
+     "url": "https://www.abc.net.au/news/2026-11-09/federal-politics-live-blog-digital-duty-of-care-/107362100",
+     "image": "https://live-production.wcms.abc-cdn.net.au/96617a76441174dd0f8714b2963775ba?impolicy=wcms_watermark_news&cropH=442&cropW=786&xPos=104&yPos=0&width=862&height=485&imformat=generic"
     },
     {
      "headline": "Aged care waits stretch to two years",
      "body": "South Australia has the longest waits for residential aged care beds in the country; families describe 'inhumane' choices.",
      "source": "ABC Politics",
-     "url": "https://www.abc.net.au/news/2026-11-09/residential-aged-care-bed-waitlist-south-australia-families/107341030"
+     "url": "https://www.abc.net.au/news/2026-11-09/residential-aged-care-bed-waitlist-south-australia-families/107341030",
+     "image": "https://live-production.wcms.abc-cdn.net.au/42f8dbafea42295a1c98cc932a2126b0?impolicy=wcms_watermark_news&cropH=2812&cropW=4999&xPos=1&yPos=291&width=862&height=485&imformat=generic"
     },
     {
      "headline": "Another AI data centre scrapped after local revolt",
      "body": "Community opposition has now killed a run of proposed data centres; the ACT Conservation Council wants a moratorium.",
      "source": "ABC NSW",
-     "url": "https://www.abc.net.au/news/2026-11-08/sydney-ai-data-centre-scrapped-after-community-backlash/107360592"
+     "url": "https://www.abc.net.au/news/2026-11-08/sydney-ai-data-centre-scrapped-after-community-backlash/107360592",
+     "image": "https://live-production.wcms.abc-cdn.net.au/f550a609d1f2e451e51e5565d7890fef?impolicy=wcms_watermark_news&cropH=1017&cropW=1808&xPos=133&yPos=211&width=862&height=485&imformat=generic"
     },
     {
      "headline": "Bathla collapse leaves workers unpaid and estates half-built",
      "body": "Former staff of the failed Sydney developer speak out about unpaid wages; buyers face unfinished 'wastelands'.",
      "source": "ABC NSW",
-     "url": "https://www.abc.net.au/news/2026-11-09/workers-break-silence-after-bathla-collapse/107339658"
+     "url": "https://www.abc.net.au/news/2026-11-09/workers-break-silence-after-bathla-collapse/107339658",
+     "image": "https://live-production.wcms.abc-cdn.net.au/42aa1d495607888258acad1cc6e8eecb?impolicy=wcms_watermark_news&cropH=2806&cropW=4988&xPos=4&yPos=101&width=862&height=485&imformat=generic"
     }
    ]
   },
@@ -185,37 +205,43 @@
      "headline": "Poland treats Krakow market-square shooting as terrorism",
      "body": "Six people were killed in the Old Town's main square; the 24-year-old gunman has died in hospital. Two police officers who confronted him are being called heroes.",
      "source": "ABC World",
-     "url": "https://www.abc.net.au/news/2026-11-09/poland-treating-mass-shooting-as-terrorist-offence/107362106"
+     "url": "https://www.abc.net.au/news/2026-11-09/poland-treating-mass-shooting-as-terrorist-offence/107362106",
+     "image": "https://live-production.wcms.abc-cdn.net.au/41cda8275a9ea0c42d1675c9096bcaa4?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=158&width=862&height=485&imformat=generic"
     },
     {
      "headline": "New Zealand faces weeks without a result",
      "body": "National will be the largest party but neither bloc has a clear win. The final count takes three weeks and coalition talks longer, costing NZ its voice at APEC and COP31.",
      "source": "Guardian World",
-     "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
+     "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+     "image": "https://i.guim.co.uk/img/media/7fcb32a817f834d2911af2cc72d2a3a7d313ee0e/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac724ffaf852cbf9c87d076af783b593"
     },
     {
      "headline": "Houthi strike hits Aramco tower in central Riyadh",
      "body": "BBC Verify confirmed damage to the building in the Saudi capital's financial district as the Houthis launched fresh strikes.",
      "source": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss"
+     "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+     "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea80/live/2b11cc30-dbbb-11f1-93e1-3b657b665bcf.png"
     },
     {
      "headline": "ANC records its worst-ever result in South Africa",
      "body": "Ramaphosa says the verdict must be respected; the party's secretary-general called it 'catastrophic'.",
      "source": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss"
+     "url": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
+     "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2630/live/78c708a0-db5c-11f1-adda-c54f54e3ce6a.jpg"
     },
     {
      "headline": "Pope Leo rebukes Milei's austerity in Argentina",
      "body": "On the second leg of his Latin America tour, the Pope said the economy must benefit everyone, in a pointed message to the libertarian president.",
      "source": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss"
+     "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+     "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d83/live/ef505e30-dbf8-11f1-93e1-3b657b665bcf.jpg"
     },
     {
      "headline": "Iran executes three men over January protests",
      "body": "The men were convicted of 'armed unrest' following anti-government protests earlier this year.",
      "source": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss"
+     "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+     "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d304/live/bfc281c0-db53-11f1-98f5-8d1276fd5e57.jpg"
     }
    ]
   },
@@ -227,31 +253,36 @@
      "headline": "ANZ profit up 23% to $7.3b, shares still fall 3.2%",
      "body": "Investors looked past the headline to the detail. Banks dragged the ASX; BHP rose 2.4%.",
      "source": "ABC Business",
-     "url": "https://www.abc.net.au/news/2026-11-09/asx-markets-business-live-news/107361534"
+     "url": "https://www.abc.net.au/news/2026-11-09/asx-markets-business-live-news/107361534",
+     "image": "https://live-production.wcms.abc-cdn.net.au/6219119a4a5d11592beb79d8641bc535?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=138&width=862&height=485&imformat=generic"
     },
     {
      "headline": "Nvidia investigates its own CEO over a Chinese intelligence report",
      "body": "Jensen Huang admitted an affair with a woman reported to have passed information to Beijing. Nvidia is the biggest single weight in global growth ETFs, so this matters for index funds like GHHF and VDHG.",
      "source": "Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
+     "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+     "image": "https://i.guim.co.uk/img/media/3fc6a5d68684a58fece0294bce9094ed76072ecd/2488_14_5430_4347/master/5430.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=65dfa83cef411b7e5330a65162e62273"
     },
     {
      "headline": "Markets rethink the AI trade after the midterms",
      "body": "The election result has hardened a political backlash against AI and data centres that investors were already pricing in.",
      "source": "Guardian Economics",
-     "url": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash"
+     "url": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
+     "image": "https://i.guim.co.uk/img/media/2ea7dda4257fc43543719a2d375cd85a1ce8cdb4/0_0_7157_5728/master/7157.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=263827498bd4c64475d5e2a50c48fe5d"
     },
     {
      "headline": "RBA flags AI spending as a new inflation risk",
      "body": "AI investment could lift demand faster than the economy can supply it, keeping inflation sticky.",
      "source": "realestate.com.au News",
-     "url": "https://www.realestate.com.au/news/rba-eyes-up-ai-led-inflation-and-spending-upticks/"
+     "url": "https://www.realestate.com.au/news/rba-eyes-up-ai-led-inflation-and-spending-upticks/",
+     "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/11/GettyImages-2288248681.jpg"
     },
     {
      "headline": "ASIC targets cold-callers pushing super switches",
      "body": "Unlicensed telemarketers are moving people into riskier schemes; advice firms using them face licence action.",
      "source": "ABC Business",
-     "url": "https://www.abc.net.au/news/2026-11-09/asic-warns-firms-using-lead-generators-to-push-super-switching/107356376"
+     "url": "https://www.abc.net.au/news/2026-11-09/asic-warns-firms-using-lead-generators-to-push-super-switching/107356376",
+     "image": "https://live-production.wcms.abc-cdn.net.au/5a042d5ce1650f0c4895ba9a2bbddc4f?impolicy=wcms_watermark_news&cropH=1097&cropW=1950&xPos=0&yPos=102&width=862&height=485&imformat=generic"
     }
    ]
   },
@@ -263,25 +294,29 @@
      "headline": "Gold Coast beachfront sells for a Queensland record $43m",
      "body": "A private businessman bought the mansion, beating the state's previous residential record.",
      "source": "realestate.com.au News",
-     "url": "https://www.realestate.com.au/news/queensland-property-record-shattered-by-43m-gold-coast-beachfront-sale/"
+     "url": "https://www.realestate.com.au/news/queensland-property-record-shattered-by-43m-gold-coast-beachfront-sale/",
+     "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/11/capi_941353de69628605d62d0ae9b1a54102_672bbfb36eeabf9c67535ea06afaaa1c.jpeg"
     },
     {
      "headline": "Brisbane clearance rates sag as rate hikes bite",
      "body": "Auction clearances in Queensland are weak, although renovator homes are still drawing bidders.",
      "source": "realestate.com.au News",
-     "url": "https://www.realestate.com.au/news/how-a-humble-family-home-is-fighting-brisbanes-low-clearance-rates/"
+     "url": "https://www.realestate.com.au/news/how-a-humble-family-home-is-fighting-brisbanes-low-clearance-rates/",
+     "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/11/capi_2b48eebdbf706d9ea9b701dfe999664b_0de2d8deb112a96b1f8fa36db781ceb6.jpeg"
     },
     {
      "headline": "El Niño summer threatens another big insurance bill",
      "body": "Last summer's weather cost more than $385m in claims; insurers expect a hot, dry season.",
      "source": "realestate.com.au News",
-     "url": "https://www.realestate.com.au/news/experts-warn-of-385m-insurance-hit-ahead-of-deadly-el-nino-summer/"
+     "url": "https://www.realestate.com.au/news/experts-warn-of-385m-insurance-hit-ahead-of-deadly-el-nino-summer/",
+     "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/11/capi_a633e9407f2a268bdaf062a54120c236_d6d0264e1174ba1cf32022d8a40e1ad6.jpeg"
     },
     {
      "headline": "$120,000 buys a 50-year lease in new co-housing model",
      "body": "An Australian-first Queensland project gives older women secure long-term housing for a one-off payment, as rents outpace pensions.",
      "source": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-09/queensland-sharing-friends-women-co-housing-project/107337800"
+     "url": "https://www.abc.net.au/news/2026-11-09/queensland-sharing-friends-women-co-housing-project/107337800",
+     "image": "https://live-production.wcms.abc-cdn.net.au/41849d33ed9ffbfb6decd7aeb0cfbf1a?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic"
     }
    ]
   },
@@ -294,45 +329,52 @@
      "body": "A trial of starting extracorporeal life support before hospital, with an accompanying editorial on bringing rapid reperfusion to more arrest patients. Directly relevant to your paramedicine background.",
      "source": "NEJM",
      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602919?af=R&rss=currentIssue",
-     "kind": "Trial"
+     "kind": "Trial",
+     "image": null
     },
     {
      "headline": "NEJM: stopping statins in older adults without CVD",
      "body": "A deprescribing trial testing whether primary-prevention statins can be safely discontinued in older patients.",
      "source": "NEJM",
      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2606634?af=R&rss=currentIssue",
-     "kind": "Trial"
+     "kind": "Trial",
+     "image": null
     },
     {
      "headline": "NEJM: pelacarsen outcomes trial in high Lp(a)",
      "body": "The long-awaited cardiovascular outcomes result for antisense Lp(a) lowering, alongside ziltivekimab (IL-6 inhibition) in atherosclerosis.",
      "source": "NEJM",
      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2610159?af=R&rss=currentIssue",
-     "kind": "Trial"
+     "kind": "Trial",
+     "image": null
     },
     {
      "headline": "Grattan: specialist fees 'out of control and getting worse'",
      "body": "Psychiatrists and dermatologists have the highest out-of-pocket gaps; Grattan wants governments to intervene. Specialist colleges partly agree.",
      "source": "Medical Republic",
-     "url": "https://www.medicalrepublic.com.au/specialist-fees-out-of-control-and-getting-worse-grattan/130836"
+     "url": "https://www.medicalrepublic.com.au/specialist-fees-out-of-control-and-getting-worse-grattan/130836",
+     "image": "https://d1svk58pjf7hyt.cloudfront.net/wp-content/uploads/sites/6/2026/11/07162127/iStock-498175690-horse-1.jpg"
     },
     {
      "headline": "Cochrane: pharma payments linked to worse prescribing",
      "body": "A systematic review found doctors who receive industry gifts or payments prescribe more and less appropriately.",
      "source": "Croakey Health Media",
-     "url": "https://www.croakey.org/research-prompts-call-to-tackle-pharmaceutical-industry-promotion-as-a-commercial-determinant-of-health/"
+     "url": "https://www.croakey.org/research-prompts-call-to-tackle-pharmaceutical-industry-promotion-as-a-commercial-determinant-of-health/",
+     "image": "https://www.croakey.org/wp-content/uploads/2026/10/vitaly-gariev-8WYkI3cEZm8-unsplash-1-scaled.jpg"
     },
     {
      "headline": "RACGP pitches specialist wait-time fix before NSW election",
      "body": "Four months out from the March poll, GPs want parties to commit to cutting specialist queues.",
      "source": "Medical Republic",
-     "url": "https://www.medicalrepublic.com.au/nsw-gps-pitch-fix-for-specialist-queues/130874"
+     "url": "https://www.medicalrepublic.com.au/nsw-gps-pitch-fix-for-specialist-queues/130874",
+     "image": "https://d1svk58pjf7hyt.cloudfront.net/wp-content/uploads/sites/6/2026/11/09155119/iStock-1980142533_1.jpg"
     },
     {
      "headline": "Hepatologists finally agree on a definition of ACLF",
      "body": "A consensus definition of acute-on-chronic liver failure, after years of competing criteria.",
      "source": "STAT News",
-     "url": "https://www.statnews.com/2026/11/09/acute-on-chronic-liver-failure-new-definition/?utm_campaign=rss"
+     "url": "https://www.statnews.com/2026/11/09/acute-on-chronic-liver-failure-new-definition/?utm_campaign=rss",
+     "image": "https://www.statnews.com/wp-content/uploads/2023/12/AdobeStock_690454058-1024x576.jpeg"
     }
    ]
   },
@@ -344,19 +386,22 @@
      "headline": "2026 on track to be the hottest year on record",
      "body": "Scientists released the projection as COP31 opened; Nature reports the 1.5°C target is close to being overshot.",
      "source": "BBC Science",
-     "url": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss"
+     "url": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
+     "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3d7/live/1adcf6d0-db63-11f1-adda-c54f54e3ce6a.jpg"
     },
     {
      "headline": "Baxdrostat's effect lasts two years after stopping",
      "body": "Patients with primary aldosteronism stayed in remission long after the aldosterone synthase inhibitor stopped, raising the prospect of a cure for a common cause of hypertension.",
      "source": "Guardian Science",
-     "url": "https://www.theguardian.com/society/2026/nov/08/new-drug-high-blood-pressure-baxdrostat"
+     "url": "https://www.theguardian.com/society/2026/nov/08/new-drug-high-blood-pressure-baxdrostat",
+     "image": "https://i.guim.co.uk/img/media/fad4e33bcddae0e5dd40cd1928698dc2850b785f/443_0_6142_4912/master/6142.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=94a1585ff425ee4deef7302063b77544"
     },
     {
      "headline": "NASA opens applications for moon astronauts",
      "body": "A new generation will live and work on the lunar surface; applications close 3 December.",
      "source": "Guardian Science",
-     "url": "https://www.theguardian.com/science/2026/nov/08/nasa-astronauts-moon-applications-open"
+     "url": "https://www.theguardian.com/science/2026/nov/08/nasa-astronauts-moon-applications-open",
+     "image": "https://i.guim.co.uk/img/media/3a9abe8a915ee753ebc3551a7608358908e01fe4/464_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d6a4736bbe1207edd2f27ade7639c0cc"
     }
    ]
   },
@@ -368,19 +413,22 @@
      "headline": "Apprentice jockey Izzy Neale critical in Dubbo Hospital",
      "body": "The 22-year-old rising star was seriously injured in a race fall in western NSW.",
      "source": "Daily Liberal (Dubbo)",
-     "url": "https://www.dailyliberal.com.au/story/9387957/jockey-izzy-neale-critical-after-horror-race-fall-at-warren/?src=rss"
+     "url": "https://www.dailyliberal.com.au/story/9387957/jockey-izzy-neale-critical-after-horror-race-fall-at-warren/?src=rss",
+     "image": "https://www.dailyliberal.com.au/images/transform/v1/crop/frm/255695061/40d78d64-2e3e-4410-adac-78300af82cf7.jpg/r0_150_3000_1725_w1200_h630_fmax.jpg"
     },
     {
      "headline": "Four locally trained doctors join the rescue squad",
      "body": "Eight new members were inducted, including four doctors who trained in the region.",
      "source": "Daily Liberal (Dubbo)",
-     "url": "https://www.dailyliberal.com.au/story/9387035/brodie-cafe-joins-dubbo-vra-rescue-to-follow-late-father/?src=rss"
+     "url": "https://www.dailyliberal.com.au/story/9387035/brodie-cafe-joins-dubbo-vra-rescue-to-follow-late-father/?src=rss",
+     "image": "https://www.dailyliberal.com.au/images/transform/v1/crop/frm/248037697/3787cd2b-d744-4f80-87ac-2b2b6ac0e4dd.jpg/r0_476_4032_2593_w1200_h630_fmax.jpg"
     },
     {
      "headline": "Universal preschool funding squeezes country preschools",
      "body": "Celebrated in Sydney, the model is leaving regional preschools facing a funding shortfall.",
      "source": "Daily Liberal (Dubbo)",
-     "url": "https://www.dailyliberal.com.au/story/9387817/central-west-preschools-face-nsw-funding-cuts-of-up-to-437k/?src=rss"
+     "url": "https://www.dailyliberal.com.au/story/9387817/central-west-preschools-face-nsw-funding-cuts-of-up-to-437k/?src=rss",
+     "image": "https://www.dailyliberal.com.au/images/transform/v1/crop/frm/GHcbaSNijNeVS4SULWDX8n/9c913eec-2785-4758-8e61-3b87a5b88b3a.jpg/r0_92_2040_1163_w1200_h630_fmax.jpg"
     }
    ]
   }
@@ -392,7 +440,8 @@
    "outlet": "ABC",
    "url": "https://www.abc.net.au/news/2026-11-09/andrew-hastie-coalition-opposition-leader/107360892",
    "gist": "Hastie would be built to fight One Nation on its own turf, and Labor's playbook isn't ready for it.",
-   "lean": "Centre"
+   "lean": "Centre",
+   "image": "https://live-production.wcms.abc-cdn.net.au/87d0880838f5c05c44a841a899d4b3a0?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=339&width=862&height=485&imformat=generic"
   },
   {
    "title": "Victorian Labor: a 'credibility-free' zone",
@@ -400,7 +449,8 @@
    "outlet": "The Spectator Australia",
    "url": "https://www.spectator.com.au/2026/11/victorian-labor-a-credibility-free-zone/",
    "gist": "Why federal Labor MPs are keeping their distance from the Allan government.",
-   "lean": "Right"
+   "lean": "Right",
+   "image": "https://www.spectator.com.au/wp-content/uploads/2026/08/GettyImages-2287900871.jpg"
   },
   {
    "title": "Interest rate hikes are a crude tool, until you look at the alternatives",
@@ -408,7 +458,8 @@
    "outlet": "ABC",
    "url": "https://www.abc.net.au/news/2026-11-09/are-there-alternatives-to-interest-rate-rises/107360716",
    "gist": "Every other inflation lever is slower, more political, or both.",
-   "lean": "Centre"
+   "lean": "Centre",
+   "image": "https://live-production.wcms.abc-cdn.net.au/1f389968b1dfcc5cb0259c62847c5698?impolicy=wcms_watermark_news&cropH=1861&cropW=3309&xPos=827&yPos=122&width=862&height=485&imformat=generic"
   },
   {
    "title": "Donald Trump defied populism to do what was right",
@@ -416,7 +467,8 @@
    "outlet": "The Spectator Australia",
    "url": "https://www.spectator.com.au/2026/11/donald-trump-defied-populism-and-the-woke-right-podcasters-to-do-what-was-right/",
    "gist": "A defence of Trump against his critics after the midterms.",
-   "lean": "Right"
+   "lean": "Right",
+   "image": "https://www.spectator.com.au/wp-content/uploads/2026/03/GettyImages-2188170432.jpg"
   },
   {
    "title": "What's more powerful than the politics of division? Listening",
@@ -424,7 +476,8 @@
    "outlet": "Guardian Australia",
    "url": "https://www.theguardian.com/commentisfree/2026/nov/08/listening-more-powerful-than-politics-of-division-us-midterms-australia-ntwnfb",
    "gist": "The US result shows populism isn't inevitable; what Australia should take from it.",
-   "lean": "Left"
+   "lean": "Left",
+   "image": "https://i.guim.co.uk/img/media/40a7a75bc62761a3813e23577c0ea81d394028e1/293_0_2915_2333/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=aff3f4183dc2d1a48b80c34cb18277b6"
   },
   {
    "title": "New Zealand's foreign policy could change, but not for weeks",
@@ -432,7 +485,8 @@
    "outlet": "Lowy Institute",
    "url": "https://www.lowyinstitute.org/the-interpreter/new-zealand-s-foreign-policy-could-change-but-we-won-t-know-for-weeks",
    "gist": "Election limbo leaves our closest neighbour without a voice at APEC and COP.",
-   "lean": "Centre"
+   "lean": "Centre",
+   "image": "https://cdn.sanity.io/images/5dcouzig/production/ab6bef29599e72599854c493e6a9781547f789a4-6883x4591.jpg?rect=0,489,6883,3614&w=1200&h=630&fm=webp&q=85&fit=crop"
   }
  ],
  "radar": [
@@ -462,5 +516,142 @@
    "detail": ""
   }
  ],
- "tidbit": "The RBA's 6–3 vote in November is only visible because the new Monetary Policy Board, which replaced the old Reserve Bank Board in 2025, publishes how many members voted each way."
+ "tidbit": "The RBA's 6–3 vote in November is only visible because the new Monetary Policy Board, which replaced the old Reserve Bank Board in 2025, publishes how many members voted each way.",
+ "sport": {
+  "results": [
+   {
+    "comp": "Premier League",
+    "home": "Crystal Palace",
+    "away": "Liverpool",
+    "homeScore": 1,
+    "awayScore": 3,
+    "status": "Full time",
+    "when": "Mon 9 Nov",
+    "following": true
+   },
+   {
+    "comp": "Premier League",
+    "home": "Man United",
+    "away": "Aston Villa",
+    "homeScore": 4,
+    "awayScore": 4,
+    "status": "Full time",
+    "when": "Mon 9 Nov"
+   },
+   {
+    "comp": "Premier League",
+    "home": "Nott'm Forest",
+    "away": "Man City",
+    "homeScore": 3,
+    "awayScore": 1,
+    "status": "Full time",
+    "when": "Sun 8 Nov"
+   },
+   {
+    "comp": "Premier League",
+    "home": "Arsenal",
+    "away": "Hull City",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "Full time",
+    "when": "Sun 8 Nov"
+   },
+   {
+    "comp": "WBBL",
+    "home": "Sydney Sixers",
+    "away": "Sydney Thunder",
+    "homeScore": "162/2",
+    "awayScore": "158",
+    "status": "Sixers won by 9 runs (DLS)",
+    "when": "Sun 8 Nov"
+   },
+   {
+    "comp": "WBBL",
+    "home": "Perth Scorchers",
+    "away": "Melbourne Stars",
+    "homeScore": "137/4",
+    "awayScore": "136/6",
+    "status": "Scorchers won by 6 wkts",
+    "when": "Sun 8 Nov"
+   }
+  ],
+  "upcoming": [
+   {
+    "comp": "Premier League",
+    "home": "Liverpool",
+    "away": "Man United",
+    "status": "Liverpool 56% to win",
+    "when": "Mon 23 Nov, 2:30am",
+    "following": true
+   },
+   {
+    "comp": "Premier League",
+    "home": "Everton",
+    "away": "Liverpool",
+    "status": "Merseyside derby",
+    "when": "Sun 29 Nov, 10:00pm",
+    "following": true
+   },
+   {
+    "comp": "Premier League",
+    "home": "Newcastle",
+    "away": "Arsenal",
+    "when": "Sun 22 Nov, 3:30am"
+   }
+  ],
+  "stories": [
+   {
+    "headline": "Warner backs Khawaja's ball-tampering claim as '100 per cent accurate'",
+    "body": "David Warner broke his silence on Sandpapergate to support his former teammate and criticise Cricket Australia's handling of it.",
+    "source": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-09/cricket-warner-backs-khawaja-ball-tampering-claims-slams-probe/107365778",
+    "image": "https://live-production.wcms.abc-cdn.net.au/014a13b561f7d04d9f44c0f274d17689?impolicy=wcms_watermark_news&cropH=2330&cropW=4143&xPos=0&yPos=240&width=862&height=485&imformat=generic"
+   }
+  ]
+ },
+ "podcast": {
+  "title": "Evening edition in 10 minutes",
+  "chapters": [
+   {
+    "title": "Welcome",
+    "text": "Good evening Chris, and welcome to your evening briefing for Monday the ninth of November. Over the next few minutes: Trump's midterm defeat turns into a fight over his defence secretary, interest rate pain lands on Labor, a startling Victorian poll, Ukraine strikes a Russian refinery on the eve of peace talks, and a new shot at government for Netanyahu's rival. Then markets, health, and what's happening around Dubbo."
+   },
+   {
+    "title": "Trump and Hegseth",
+    "text": "First, America. After last week's crushing result in the US midterms, Congress has given Donald Trump an ultimatum. Fire his defence secretary, Pete Hegseth, or face impeachment proceedings. Republicans are now openly arguing about whether to stay with Trumpism for the president's final two years, and analysts are pointing to the Iran war and the cost of living as the reasons voters turned. For Australia, a weaker White House matters for AUKUS, for tariffs, and for the artificial intelligence boom that has carried share markets this year."
+   },
+   {
+    "title": "Rates and Labor",
+    "text": "At home, the economy is biting the government. The Reserve Bank has lifted rates five times this year, taking the cash rate to four point eight five per cent, and its last decision was a split vote, six to three. Environment Minister Murray Watt has told his colleagues to stop undermining Treasurer Jim Chalmers after a tense budget savings meeting. On the other side, the Coalition is weighing up Andrew Hastie as leader, partly to deal with Pauline Hanson's One Nation, which keeps climbing in the polls."
+   },
+   {
+    "title": "Victoria",
+    "text": "Which brings us to Victoria, where voters go to the polls on the twenty eighth of November. A new poll has Labor at an all time low of just eighteen per cent, behind One Nation on twenty one and the Coalition on thirty three. At the same time, the royal commission into the Big Build has heard the construction union enjoyed a significant level of influence over the state government. And in New South Wales, Premier Chris Minns called a One Nation candidate's claim that Australians are being demographically replaced outrageous and racist."
+   },
+   {
+    "title": "Ukraine and Russia",
+    "text": "In Europe, a Ukrainian drone strike has set fire to the Kirishi refinery near Saint Petersburg, Russia's second largest, killing a local woman. The timing matters. It came a day before Russian, Ukrainian, and American negotiators sit down for their first peace talks since February. Refinery strikes have become Kyiv's main way of squeezing Russia's war economy, so watch whether they become a bargaining chip."
+   },
+   {
+    "title": "Israel",
+    "text": "In Israel, the president has asked former military chief Gadi Eisenkot to try to form a government, after an election left the parliament deadlocked and Benjamin Netanyahu's coalition without a majority. Eisenkot is reaching out to some of Netanyahu's own allies, and says the country is approaching a point of no return. It's the first realistic chance in years of Israel being led by someone other than Netanyahu."
+   },
+   {
+    "title": "Around the world",
+    "text": "Briefly around the world. Poland is treating a mass shooting in Krakow's old town square as terrorism, after six people were killed. New Zealand is facing weeks without a government, with its election too close to call. The ANC has recorded its worst ever result in South Africa. And Houthi rebels have struck a tower in the heart of the Saudi capital, Riyadh."
+   },
+   {
+    "title": "Markets",
+    "text": "To markets. The ASX two hundred edged up a tenth of a per cent to about nine thousand and thirty. Miners carried the day while every big bank fell, including ANZ, which slipped more than three per cent despite a seven point three billion dollar profit. The Aussie dollar is near sixty nine US cents. Brent oil is steady around ninety eight dollars after its steepest weekly fall since the start of COVID. And Nvidia, the biggest single weight in most global growth funds, has launched an investigation into its own chief executive after a report linked him to Chinese intelligence."
+   },
+   {
+    "title": "Health and medicine",
+    "text": "In health and medicine. This week's New England Journal has a trial of starting extracorporeal life support before patients reach hospital in refractory cardiac arrest, which is worth a read given your paramedic background. There's also a statin deprescribing trial in older adults, and the outcomes result for pelacarsen in high lipoprotein a. Closer to home, the Grattan Institute says specialist fees are out of control, with psychiatrists and dermatologists charging the biggest gaps. And a Cochrane review has found doctors who take industry payments prescribe more, and less appropriately."
+   },
+   {
+    "title": "Dubbo and the Central West",
+    "text": "And finally, around Dubbo. Apprentice jockey Izzy Neale is in a critical condition in Dubbo Hospital after a race fall, with tributes flowing for the twenty two year old. Four locally trained doctors are among eight new members of the rescue squad. And regional preschools say the new universal funding model, celebrated in Sydney, is leaving them facing a shortfall. That's your evening briefing. The next edition lands at six tomorrow morning."
+   }
+  ]
+ }
 }
