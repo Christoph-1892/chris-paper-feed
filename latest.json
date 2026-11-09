@@ -2,7 +2,7 @@
  "id": "2026-11-09-pm",
  "date": "2026-11-09",
  "edition": "Evening",
- "publishedAt": "2026-11-09T20:40:00+10:00",
+ "publishedAt": "2026-11-09T18:00:00+10:00",
  "readMinutes": 10,
  "markets": {
   "asOf": "ASX close, Mon 9 Nov",
@@ -44,7 +44,7 @@
     "dir": "up"
    }
   ],
-  "note": "Miners carried a flat market while every big bank closed lower. Brent fell 17% last week, its steepest weekly drop since the start of COVID.",
+  "note": "Miners, led by uranium stocks, lifted the ASX while ANZ fell 3.2% and dragged the banks; overnight attention turns to Nvidia, whose shares are sliding on the Jensen Huang spy scandal.",
   "source": {
    "name": "ABC Business",
    "url": "https://www.abc.net.au/news/2026-11-09/asx-markets-business-live-news/107361534"
@@ -52,107 +52,122 @@
  },
  "lead": [
   {
-   "headline": "Trump's midterm rout turns into a fight over Hegseth",
-   "body": "After a crushing defeat in last week's US midterms, Congress has given Donald Trump an ultimatum: fire Defence Secretary Pete Hegseth or face impeachment proceedings. Republicans are now split over whether to stick with Trumpism for his final two years. Analysts credit the Iran war and living costs for the swing.",
-   "why": "A weakened White House changes the outlook for the Iran war, AUKUS, tariffs, and the AI boom that has carried markets.",
-   "tag": "World",
-   "sources": [
-    {
-     "name": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-09/donald-trump-revamping-team-and-pete-hegeth-could-be-next/107358974"
-    },
-    {
-     "name": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "name": "Guardian Opinion",
-     "url": "https://www.theguardian.com/commentisfree/2026/nov/07/pete-hegseth-midterms-consequences"
-    }
-   ],
+   "headline": "Russia, Ukraine, and the US meet in Abu Dhabi as both sides hit energy targets",
+   "body": "Negotiators from Russia, Ukraine, and the United States sit down in Abu Dhabi on Tuesday for two days of talks, the first round since February, with security guarantees expected to top the agenda. On the eve of the talks Ukrainian drones set Russia's Kirishi refinery alight, while Russia said it struck three Ukrainian power substations. Russia still wants Ukraine out of four annexed regions and off the NATO path; Ukraine wants a ceasefire first.",
+   "why": "Any movement on security guarantees would be the first real sign of a framework to end Europe's biggest war, with knock-on effects for energy prices and defence spending.",
    "points": [
-    "Congress has given Trump an ultimatum to fire Pete Hegseth or face impeachment proceedings.",
-    "Republicans are split over sticking with Trumpism for his final two years.",
-    "Analysts link the swing to the Iran war and living costs."
+    "Two-day talks start Tuesday 10 November in Abu Dhabi.",
+    "US Secretary of State Marco Rubio says post-war security guarantees are the key focus.",
+    "Ukraine is short of US-made Patriot interceptors as Russia targets the power grid before winter."
    ],
-   "image": "https://live-production.wcms.abc-cdn.net.au/1636bcf20f8e4b9ee544feae9671fe91?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=67&width=862&height=485&imformat=generic"
-  },
-  {
-   "headline": "Rate pain lands on Chalmers as Labor turns on itself",
-   "body": "Mortgage holders have absorbed five RBA hikes this year, taking the cash rate to 4.85%. Environment Minister Murray Watt has told colleagues to stop undermining Treasurer Jim Chalmers after a budget savings meeting. The Coalition is weighing Andrew Hastie as leader to take on Labor and a surging One Nation.",
-   "why": "Mortgage costs, the budget update, and the next federal election all hinge on whether inflation turns before the RBA does more.",
-   "tag": "Politics",
-   "sources": [
-    {
-     "name": "Guardian Australia",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/09/stop-undermining-treasurer-jim-chalmers-environment-minister-urges-colleagues"
-    },
-    {
-     "name": "ABC Politics",
-     "url": "https://www.abc.net.au/news/2026-11-09/andrew-hastie-coalition-opposition-leader/107360892"
-    },
-    {
-     "name": "ABC Business",
-     "url": "https://www.abc.net.au/news/2026-11-09/are-there-alternatives-to-interest-rate-rises/107360716"
-    }
-   ],
-   "points": [
-    "The cash rate is 4.85% after five hikes in 2026; the November vote was split 6 to 3.",
-    "Murray Watt told colleagues to stop undermining Jim Chalmers.",
-    "The Coalition is weighing Andrew Hastie as leader against a rising One Nation."
-   ],
-   "image": "https://i.guim.co.uk/img/media/0a251c36d8f4f67e296c116d611465daf42788cd/212_0_5048_4038/master/5048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5fbb4c6e544906e590cd095d72cc13a"
-  },
-  {
-   "headline": "Victorian Labor polls 18%, behind One Nation, with three weeks to go",
-   "body": "A new poll has Labor at an all-time low of 18%, behind One Nation on 21% and the Coalition on 33%, ahead of the 28 November state election. At the same time the Big Build royal commission heard the CFMEU 'enjoyed a significant level of influence' over the government. NSW Premier Chris Minns called a One Nation candidate's 'demographic replacement' claim racist.",
-   "why": "If those numbers hold it would be a historic collapse, and One Nation's rise is now reshaping both major parties federally.",
-   "tag": "Australia",
-   "sources": [
-    {
-     "name": "Guardian Australia",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/09/victoria-election-2026-labor-mps-new-opinion-poll-one-nation-ntwnfb"
-    },
-    {
-     "name": "Guardian Australia",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/09/big-build-royal-commission-hears-cfmeu-enjoy-a-significant-level-of-influence-over-victorian-government-ntwnfb"
-    },
-    {
-     "name": "Guardian Australia",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/09/one-nation-stuart-bonds-slammed-immigration-comments-ntwnfb"
-    }
-   ],
-   "image": "https://i.guim.co.uk/img/media/eb1414dc0eeede52985082395d9f3ea36f782c63/1248_827_3346_2677/master/3346.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef908396cea3a6f8b5ba3e8d43c7189c"
-  },
-  {
-   "headline": "Ukraine sets Russia's second-biggest refinery ablaze on eve of peace talks",
-   "body": "A Ukrainian drone strike set the Kirishi refinery near St Petersburg on fire, killing a local woman. It came a day before Russian, Ukrainian, and US negotiators meet for their first talks since February.",
-   "why": "The talks are the first real diplomatic track in nine months; refinery strikes are Kyiv's main lever on Russia's war economy.",
    "tag": "Wars",
    "sources": [
     {
      "name": "ABC News",
      "url": "https://www.abc.net.au/news/2026-11-09/ukrainian-drone-attack-at-russia-kirishi-refinery-woman-dies/107365888"
+    },
+    {
+     "name": "Guardian Ukraine",
+     "url": "https://www.theguardian.com/world/2026/nov/09/ukraine-war-briefing-post-war-security-guarantees-a-key-focus-in-upcoming-abu-dhabi-talks-says-rubio"
     }
    ],
    "image": "https://live-production.wcms.abc-cdn.net.au/7fea7f83d1536842320df86f944342dd?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic"
   },
   {
-   "headline": "Netanyahu's rival Eisenkot gets first shot at forming Israel's government",
-   "body": "Israel's president has asked former military chief Gadi Eisenkot to form a government after an election left the Knesset deadlocked and Netanyahu's coalition without a majority. Eisenkot is courting Netanyahu's allies and says the country is near a 'point of no return'.",
-   "why": "The first realistic chance in years of Israel being led by someone other than Netanyahu, with the Gaza and Iran fronts still open.",
-   "tag": "Wars",
+   "headline": "Trump meets Qatar's prime minister as Iran pitches a two-day peace plan",
+   "body": "Donald Trump is meeting Qatar's Prime Minister, Sheikh Mohammed bin Abdulrahman Al Thani, at the White House as Doha tries to restart US-Iran negotiations. Iran has offered a revised two-day framework: Washington would act on agreed measures on day one, and the Strait of Hormuz would reopen on day two. Rubio says Iran's demands, including lifting the US port blockade and sanctions and paying war compensation, are unacceptable and no breakthrough is imminent.",
+   "why": "The Iran war has kept Brent near US$100, fed the inflation behind this year's rate hikes, and helped sink Trump's party at the midterms.",
+   "points": [
+    "Iran will not discuss its nuclear program until its conditions are met.",
+    "Trump says new strikes are 'highly unlikely' if talks progress but warns more targets have been identified.",
+    "Qatar has warned against letting talks drag on indefinitely."
+   ],
+   "tag": "World",
    "sources": [
     {
-     "name": "Guardian World",
-     "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
+     "name": "The New Arab",
+     "url": "https://www.newarab.com/news/trump-meet-qatari-pm-doha-pushes-us-iran-deal"
     },
     {
-     "name": "Guardian World",
-     "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government"
+     "name": "Axios",
+     "url": "https://www.axios.com/2026/11/09/trump-qatar-prime-minister-iran-war-mediation"
     }
    ],
-   "image": "https://i.guim.co.uk/img/media/7eec88b1e0176fdcaf9916606ea9a1c049ff2da6/552_347_2266_1813/master/2266.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=259d3844d49dff824d4482e342bce2f7"
+   "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2242895968.jpeg?itok=M0-YLZsc"
+  },
+  {
+   "headline": "COP31 opens in Türkiye with Chris Bowen running the negotiations",
+   "body": "The UN climate summit opened in Antalya on Monday, and for the first time Australia is chairing the formal negotiations, with Climate Change and Energy Minister Chris Bowen as President of Negotiations while Türkiye hosts. Bowen inherits a long list of issues deferred from June's Bonn session, including carbon market rules, adaptation indicators, a just transition mechanism, and climate finance. Scientists expect 2026 to be the hottest year on record.",
+   "why": "Bowen's handling of the talks will shape Australia's standing in the Pacific and put its gas and coal exports under a bright international spotlight.",
+   "points": [
+    "The summit runs until 20 November.",
+    "A Pacific pre-COP in Fiji and Tuvalu backed electricity supplying 35% of global final energy by 2035.",
+    "More than 160 agenda items are on the table."
+   ],
+   "tag": "Australia",
+   "sources": [
+    {
+     "name": "Clayton Utz",
+     "url": "https://www.claytonutz.com/insights/2026/november/cop31-in-antalya-australia-takes-the-gavel-at-the-implementation-cop"
+    },
+    {
+     "name": "Daily Sabah",
+     "url": "https://www.dailysabah.com/turkiye/cop31-opens-in-turkiye-with-push-to-turn-climate-pledges-into-action/news"
+    },
+    {
+     "name": "The Conversation",
+     "url": "https://theconversation.com/australias-climate-minister-is-about-to-walk-a-diplomatic-tightrope-at-cop31-294565"
+    }
+   ],
+   "image": "https://www.claytonutz.com/cfimages/CU-Insights.webp/public"
+  },
+  {
+   "headline": "Big Build royal commission hears CFMEU had 'unprecedented access' to Victorian ministers",
+   "body": "Public hearings in the royal commission into the CFMEU and Victoria's Big Build began on Monday, with counsel assisting Chris Young KC tabling John Holland memos describing the union's 'unprecedented access' to ministers. The first day examined a 2022 stop-work at a Sunbury level crossing site, where transcript notes recorded the union warning it would 'smash' a subcontractor. Premier Ben Carroll denied knowledge of the union's access and said the hearings showed he would make tough decisions.",
+   "why": "The hearings run until 20 November, eight days before a state election in which Labor is already polling at record lows.",
+   "points": [
+    "Counsel stressed the material is allegations, some of which are denied.",
+    "The Sunbury project cost reportedly blew out by about $6 million.",
+    "The commission has requested more than 110,000 documents."
+   ],
+   "tag": "Politics",
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-09/victoria-big-build-royal-commission-hears-cfmeu-influence/107364446"
+    },
+    {
+     "name": "Guardian Australia",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/09/big-build-royal-commission-hears-cfmeu-enjoy-a-significant-level-of-influence-over-victorian-government-ntwnfb"
+    }
+   ],
+   "image": "https://live-production.wcms.abc-cdn.net.au/dd92519f66ee171d16b013bb45a70fd0?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=514&width=862&height=485&imformat=generic"
+  },
+  {
+   "headline": "Nvidia shares slide as its board investigates Jensen Huang over a suspected Chinese spy",
+   "body": "Nvidia's independent directors have launched an investigation after the New York Times and Financial Times reported US officials believed a Singapore-based executive with a close relationship to CEO Jensen Huang was a Chinese intelligence asset. Huang admitted an affair in a staff memo and remains CEO; the board says it has no reason to believe national security or company secrets were compromised. China called the claims 'smears', and Nvidia shares fell more than 4%.",
+   "why": "Nvidia is the world's most valuable company and a top holding in global index ETFs, so a leadership crisis there feeds straight into diversified portfolios.",
+   "points": [
+    "The woman worked at Megaspeed, a Nvidia customer.",
+    "The NYT reported Trump was briefed about a year ago.",
+    "The scandal lands as markets were already rethinking the AI trade after the midterms."
+   ],
+   "tag": "Money",
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-09/nvidia-ceo-jensen-huang-affair-with-suspected-chinese-spy/107362878"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss"
+    },
+    {
+     "name": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss"
+    }
+   ],
+   "image": "https://live-production.wcms.abc-cdn.net.au/eb13a3fa2de6f11a9a68dbb1132e2aa9?impolicy=wcms_watermark_news&cropH=1388&cropW=2468&xPos=0&yPos=128&width=862&height=485&imformat=generic"
   }
  ],
  "sections": [
@@ -161,39 +176,40 @@
    "title": "Australia",
    "items": [
     {
-     "headline": "Victoria Barracks stays public after veterans' backlash",
-     "body": "The PM has scrapped the sale of four heritage defence sites, including the Sydney and Melbourne barracks, after an audit recommended selling them. Richard Marles denies defence loses out.",
+     "headline": "Watt tells Labor colleagues to stop undermining Chalmers",
+     "body": "Environment Minister Murray Watt has urged colleagues to stop briefing against the Treasurer after a budget savings meeting, saying 'all sorts of people' were 'making all sorts of comments'.",
      "source": "Guardian Australia",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
-     "image": "https://i.guim.co.uk/img/media/4de3f4de1a517d63098209ff6451d828346e519e/407_0_4066_3253/master/4066.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da02c40a5c3dafaa3c8be946dc67ebf7"
+     "url": "https://www.theguardian.com/uk-news/2026/nov/09/stop-undermining-treasurer-jim-chalmers-environment-minister-urges-colleagues",
+     "why": "Open sniping at the Treasurer after five rate hikes is a sign of how rattled federal Labor has become.",
+     "image": "https://i.guim.co.uk/img/media/0a251c36d8f4f67e296c116d611465daf42788cd/212_0_5048_4038/master/5048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5fbb4c6e544906e590cd095d72cc13a"
     },
     {
-     "headline": "TikTok grilled over self-harm content",
-     "body": "David Pocock pressed TikTok executives at the Senate inquiry into the government's Digital Duty of Care bill.",
-     "source": "ABC Politics",
-     "url": "https://www.abc.net.au/news/2026-11-09/federal-politics-live-blog-digital-duty-of-care-/107362100",
-     "image": "https://live-production.wcms.abc-cdn.net.au/96617a76441174dd0f8714b2963775ba?impolicy=wcms_watermark_news&cropH=442&cropW=786&xPos=104&yPos=0&width=862&height=485&imformat=generic"
+     "headline": "Minns calls One Nation candidate's 'replacement' claim racist",
+     "body": "Premier Chris Minns and the Race Discrimination Commissioner condemned Stuart Bonds, who leads One Nation's NSW upper house ticket, for claiming Australians are being 'demographically replaced'.",
+     "source": "Guardian Australia",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/09/one-nation-stuart-bonds-slammed-immigration-comments-ntwnfb",
+     "image": "https://i.guim.co.uk/img/media/39f09dedf1330fa12ee7faa964b23d239dcb80af/375_0_6309_5051/master/6309.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=142b72d2506d3b153cdf3a336fc08842"
     },
     {
-     "headline": "Aged care waits stretch to two years",
-     "body": "South Australia has the longest waits for residential aged care beds in the country; families describe 'inhumane' choices.",
-     "source": "ABC Politics",
-     "url": "https://www.abc.net.au/news/2026-11-09/residential-aged-care-bed-waitlist-south-australia-families/107341030",
-     "image": "https://live-production.wcms.abc-cdn.net.au/42f8dbafea42295a1c98cc932a2126b0?impolicy=wcms_watermark_news&cropH=2812&cropW=4999&xPos=1&yPos=291&width=862&height=485&imformat=generic"
+     "headline": "WA minister under pressure over Pilbara child welfare crisis",
+     "body": "Aboriginal Affairs Minister Don Punch visited South Hedland for the first time since reports of children living in squalid conditions, as calls for his resignation grow.",
+     "source": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-09/don-punch-visits-hedland-amid-child-welfare-crisis/107350880",
+     "image": "https://live-production.wcms.abc-cdn.net.au/30398feaa26369da58f5f47c53ca249c?impolicy=wcms_watermark_news&cropH=909&cropW=1616&xPos=0&yPos=86&width=862&height=485&imformat=generic"
     },
     {
-     "headline": "Another AI data centre scrapped after local revolt",
-     "body": "Community opposition has now killed a run of proposed data centres; the ACT Conservation Council wants a moratorium.",
-     "source": "ABC NSW",
-     "url": "https://www.abc.net.au/news/2026-11-08/sydney-ai-data-centre-scrapped-after-community-backlash/107360592",
-     "image": "https://live-production.wcms.abc-cdn.net.au/f550a609d1f2e451e51e5565d7890fef?impolicy=wcms_watermark_news&cropH=1017&cropW=1808&xPos=133&yPos=211&width=862&height=485&imformat=generic"
+     "headline": "Tasmanian premier takes 22% pay rise he once called 'out of step'",
+     "body": "All Tasmanian MPs, including the premier, are now receiving the full 22 per cent increase.",
+     "source": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-09/tasmanian-politicians-22-per-cent-pay-rise/107364690",
+     "image": "https://live-production.wcms.abc-cdn.net.au/44306ab30ac65adccb7d4da2802a1ce9?impolicy=wcms_watermark_news&cropH=1956&cropW=3478&xPos=1713&yPos=58&width=862&height=485&imformat=generic"
     },
     {
-     "headline": "Bathla collapse leaves workers unpaid and estates half-built",
-     "body": "Former staff of the failed Sydney developer speak out about unpaid wages; buyers face unfinished 'wastelands'.",
-     "source": "ABC NSW",
-     "url": "https://www.abc.net.au/news/2026-11-09/workers-break-silence-after-bathla-collapse/107339658",
-     "image": "https://live-production.wcms.abc-cdn.net.au/42aa1d495607888258acad1cc6e8eecb?impolicy=wcms_watermark_news&cropH=2806&cropW=4988&xPos=4&yPos=101&width=862&height=485&imformat=generic"
+     "headline": "Demerit point black markets outpace a 1990s system",
+     "body": "After 7.30 exposed demerit points being traded on social media, the official who introduced Queensland's system says the government must change it.",
+     "source": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-09/queensland-demerit-points-system-not-changed-since-1990s/107363230",
+     "image": "https://live-production.wcms.abc-cdn.net.au/d6550d03c6ce0e7510ca44210d7db132?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=109&width=862&height=485&imformat=generic"
     }
    ]
   },
@@ -202,46 +218,40 @@
    "title": "World",
    "items": [
     {
-     "headline": "Poland treats Krakow market-square shooting as terrorism",
-     "body": "Six people were killed in the Old Town's main square; the 24-year-old gunman has died in hospital. Two police officers who confronted him are being called heroes.",
-     "source": "ABC World",
-     "url": "https://www.abc.net.au/news/2026-11-09/poland-treating-mass-shooting-as-terrorist-offence/107362106",
-     "image": "https://live-production.wcms.abc-cdn.net.au/41cda8275a9ea0c42d1675c9096bcaa4?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=158&width=862&height=485&imformat=generic"
+     "headline": "Trump concedes deportations were 'too tough' as Miller becomes chief of staff",
+     "body": "Trump told 60 Minutes his deportation policy hurt him at the midterms and floated an immigration deal with Democrats, even as Stephen Miller, its chief architect, replaced Susie Wiles as chief of staff.",
+     "source": "ABC News (US)",
+     "url": "https://abcnews.com/US/trump-tough-deportation-policies-hurt-midterms/story?id=137963657",
+     "why": "It is the clearest sign yet that the midterm defeat is changing White House policy, not just personnel.",
+     "image": "https://i.abcnewsfe.com/a/15a934b3-7b2f-4e01-a2da-3bd51ad8e480/GettyImages-2302269863_1794193468310_hpMain_16x9.jpg?w=1600"
     },
     {
-     "headline": "New Zealand faces weeks without a result",
-     "body": "National will be the largest party but neither bloc has a clear win. The final count takes three weeks and coalition talks longer, costing NZ its voice at APEC and COP31.",
-     "source": "Guardian World",
-     "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
-     "image": "https://i.guim.co.uk/img/media/7fcb32a817f834d2911af2cc72d2a3a7d313ee0e/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac724ffaf852cbf9c87d076af783b593"
+     "headline": "Krakow gunman dies in hospital",
+     "body": "The 24-year-old who killed six people and injured 15 in Krakow's Main Market Square has died; Poland is still investigating the attack as terrorism and whether he acted alone.",
+     "source": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-09/krakow-shooter-dies-in-hospital/107366174",
+     "image": "https://live-production.wcms.abc-cdn.net.au/48ea5b8cb35ce003d6ea0b41bd53e9ba?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485&imformat=generic"
     },
     {
-     "headline": "Houthi strike hits Aramco tower in central Riyadh",
-     "body": "BBC Verify confirmed damage to the building in the Saudi capital's financial district as the Houthis launched fresh strikes.",
+     "headline": "Winter rains flood Gaza's tent camps",
+     "body": "Gaza authorities blamed global 'inaction' after a sandbank collapsed onto a tent in heavy rain, killing four children and a woman.",
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af1a39dc6406-1794220957.jpg?resize=1920%2C1440"
+    },
+    {
+     "headline": "At least 34 dead as migrant boat sinks off Senegal",
+     "body": "The boat was attempting the dangerous Atlantic crossing to Spain's Canary Islands.",
      "source": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
-     "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea80/live/2b11cc30-dbbb-11f1-93e1-3b657b665bcf.png"
+     "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+     "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cd49/live/784207a0-dc00-11f1-bbe0-3f3fc519e7d8.png"
     },
     {
-     "headline": "ANC records its worst-ever result in South Africa",
-     "body": "Ramaphosa says the verdict must be respected; the party's secretary-general called it 'catastrophic'.",
-     "source": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
-     "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2630/live/78c708a0-db5c-11f1-adda-c54f54e3ce6a.jpg"
-    },
-    {
-     "headline": "Pope Leo rebukes Milei's austerity in Argentina",
-     "body": "On the second leg of his Latin America tour, the Pope said the economy must benefit everyone, in a pointed message to the libertarian president.",
-     "source": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
-     "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d83/live/ef505e30-dbf8-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-     "headline": "Iran executes three men over January protests",
-     "body": "The men were convicted of 'armed unrest' following anti-government protests earlier this year.",
-     "source": "BBC World",
-     "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-     "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d304/live/bfc281c0-db53-11f1-98f5-8d1276fd5e57.jpg"
+     "headline": "Sheikh Hasina seeks a passport in sign of Bangladesh return",
+     "body": "The ousted prime minister, in India for two years, has promised to return home.",
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2025/11/AFP__20251117__849B2CQ__v1__HighRes__FilesBangladeshPoliticsTrial-1763916972.jpg?resize=1920%2C1440"
     }
    ]
   },
@@ -250,39 +260,33 @@
    "title": "Money",
    "items": [
     {
-     "headline": "ANZ profit up 23% to $7.3b, shares still fall 3.2%",
-     "body": "Investors looked past the headline to the detail. Banks dragged the ASX; BHP rose 2.4%.",
+     "headline": "Uranium stocks surge as miners carry the ASX",
+     "body": "Paladin and Boss Energy jumped more than 10% and BHP rose 2.4%, offsetting losses across the big banks as the ASX 200 closed 0.1% higher at about 9,030.",
+     "source": "ABC Business",
+     "url": "https://www.abc.net.au/news/2026-11-09/asx-markets-business-live-news/107361534",
+     "why": "A market held up by miners while banks fall is the pattern to watch for Australian-heavy ETFs like VDHG.",
+     "image": "https://live-production.wcms.abc-cdn.net.au/6219119a4a5d11592beb79d8641bc535?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=138&width=862&height=485&imformat=generic"
+    },
+    {
+     "headline": "US futures point higher despite the Nvidia scandal",
+     "body": "S&P 500 futures were up 0.7% and Nasdaq futures 0.6% in the Australian afternoon.",
      "source": "ABC Business",
      "url": "https://www.abc.net.au/news/2026-11-09/asx-markets-business-live-news/107361534",
      "image": "https://live-production.wcms.abc-cdn.net.au/6219119a4a5d11592beb79d8641bc535?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=138&width=862&height=485&imformat=generic"
     },
     {
-     "headline": "Nvidia investigates its own CEO over a Chinese intelligence report",
-     "body": "Jensen Huang admitted an affair with a woman reported to have passed information to Beijing. Nvidia is the biggest single weight in global growth ETFs, so this matters for index funds like GHHF and VDHG.",
-     "source": "Guardian World",
-     "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
-     "image": "https://i.guim.co.uk/img/media/3fc6a5d68684a58fece0294bce9094ed76072ecd/2488_14_5430_4347/master/5430.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=65dfa83cef411b7e5330a65162e62273"
+     "headline": "UK to cut its electric vehicle sales targets",
+     "body": "The UK government is expected this week to water down targets that phase out new petrol and diesel cars by 2030.",
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+     "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b401/live/fd7836e0-dbdf-11f1-b348-cb75a5659779.jpg"
     },
     {
-     "headline": "Markets rethink the AI trade after the midterms",
-     "body": "The election result has hardened a political backlash against AI and data centres that investors were already pricing in.",
-     "source": "Guardian Economics",
-     "url": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
-     "image": "https://i.guim.co.uk/img/media/2ea7dda4257fc43543719a2d375cd85a1ce8cdb4/0_0_7157_5728/master/7157.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=263827498bd4c64475d5e2a50c48fe5d"
-    },
-    {
-     "headline": "RBA flags AI spending as a new inflation risk",
-     "body": "AI investment could lift demand faster than the economy can supply it, keeping inflation sticky.",
-     "source": "realestate.com.au News",
-     "url": "https://www.realestate.com.au/news/rba-eyes-up-ai-led-inflation-and-spending-upticks/",
-     "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/11/GettyImages-2288248681.jpg"
-    },
-    {
-     "headline": "ASIC targets cold-callers pushing super switches",
-     "body": "Unlicensed telemarketers are moving people into riskier schemes; advice firms using them face licence action.",
-     "source": "ABC Business",
-     "url": "https://www.abc.net.au/news/2026-11-09/asic-warns-firms-using-lead-generators-to-push-super-switching/107356376",
-     "image": "https://live-production.wcms.abc-cdn.net.au/5a042d5ce1650f0c4895ba9a2bbddc4f?impolicy=wcms_watermark_news&cropH=1097&cropW=1950&xPos=0&yPos=102&width=862&height=485&imformat=generic"
+     "headline": "Thames Water asks creditors for more time on £20b debt",
+     "body": "The troubled utility wants part of its debt deadline pushed out to March 2028.",
+     "source": "Guardian",
+     "url": "https://www.theguardian.com/business/2026/nov/09/thames-water-asks-creditors-more-time-repay-debt-pile",
+     "image": "https://i.guim.co.uk/img/media/535318ddf017dc682b293bfcd483a717eefaf8a0/247_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ff8972306b5b954d4ffacea91dc8d831"
     }
    ]
   },
@@ -291,32 +295,26 @@
    "title": "Property",
    "items": [
     {
-     "headline": "Gold Coast beachfront sells for a Queensland record $43m",
-     "body": "A private businessman bought the mansion, beating the state's previous residential record.",
-     "source": "realestate.com.au News",
-     "url": "https://www.realestate.com.au/news/queensland-property-record-shattered-by-43m-gold-coast-beachfront-sale/",
-     "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/11/capi_941353de69628605d62d0ae9b1a54102_672bbfb36eeabf9c67535ea06afaaa1c.jpeg"
+     "headline": "Mickleham auction beats reserve by $40,000 days after a rate hike",
+     "body": "Four bidders pushed a house in Melbourne's north well above expectations, defying this month's RBA increase.",
+     "source": "realestate.com.au",
+     "url": "https://www.realestate.com.au/news/monster-result-mickleham-house-smashes-reserve-by-40000/",
+     "why": "Pockets of outer-suburban demand are holding up even as higher rates cool clearance rates elsewhere.",
+     "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/11/capi_b7d2a35d0fd22c995937534fbb9726d2_8f3076d781d8345441f976b67942c715.jpeg"
     },
     {
-     "headline": "Brisbane clearance rates sag as rate hikes bite",
-     "body": "Auction clearances in Queensland are weak, although renovator homes are still drawing bidders.",
-     "source": "realestate.com.au News",
-     "url": "https://www.realestate.com.au/news/how-a-humble-family-home-is-fighting-brisbanes-low-clearance-rates/",
-     "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/11/capi_2b48eebdbf706d9ea9b701dfe999664b_0de2d8deb112a96b1f8fa36db781ceb6.jpeg"
+     "headline": "Canberra plans a new 3,000-home suburb",
+     "body": "Residents are being asked what matters most for a new suburb in the city's north-west.",
+     "source": "realestate.com.au",
+     "url": "https://www.realestate.com.au/news/canberrans-invited-to-have-a-say-on-new-suburb-in-citys-north-west/",
+     "image": "https://www.realestate.com.au/news-image/w_2000,h_1500/v1787339271/news-lifestyle-content-assets/wp-content/production/GettyImages-1722203441-TAS-VTVT_1099080d3813.jpg"
     },
     {
-     "headline": "El Niño summer threatens another big insurance bill",
-     "body": "Last summer's weather cost more than $385m in claims; insurers expect a hot, dry season.",
-     "source": "realestate.com.au News",
-     "url": "https://www.realestate.com.au/news/experts-warn-of-385m-insurance-hit-ahead-of-deadly-el-nino-summer/",
-     "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/11/capi_a633e9407f2a268bdaf062a54120c236_d6d0264e1174ba1cf32022d8a40e1ad6.jpeg"
-    },
-    {
-     "headline": "$120,000 buys a 50-year lease in new co-housing model",
-     "body": "An Australian-first Queensland project gives older women secure long-term housing for a one-off payment, as rents outpace pensions.",
-     "source": "ABC News",
-     "url": "https://www.abc.net.au/news/2026-11-09/queensland-sharing-friends-women-co-housing-project/107337800",
-     "image": "https://live-production.wcms.abc-cdn.net.au/41849d33ed9ffbfb6decd7aeb0cfbf1a?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic"
+     "headline": "Adult children have a say in most downsizing decisions",
+     "body": "A new report finds two in three downsizers say their kids influence the move.",
+     "source": "realestate.com.au",
+     "url": "https://www.realestate.com.au/news/the-family-factor-how-adult-children-influence-downsizing-decisions/",
+     "image": "https://www.realestate.com.au/news/wp-content/uploads/2026/11/GemLifeFamily.jpg"
     }
    ]
   },
@@ -325,56 +323,50 @@
    "title": "Health & Medicine",
    "items": [
     {
-     "headline": "NEJM: prehospital ECLS for refractory out-of-hospital cardiac arrest",
-     "body": "A trial of starting extracorporeal life support before hospital, with an accompanying editorial on bringing rapid reperfusion to more arrest patients. Directly relevant to your paramedicine background.",
+     "headline": "NEJM: plozasiran cuts pancreatitis in severe hypertriglyceridaemia",
+     "body": "In the SHASTA-3 and SHASTA-4 trials (n=757), the APOC3-targeting siRNA cut triglycerides by about 80% at 12 months and acute pancreatitis from 5 to 1 per 100 patient-years (rate ratio 0.22). Takeaway: APOC3 silencing now has outcome data on pancreatitis, not just lipid lowering; the first author is based in Perth.",
      "source": "NEJM",
-     "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602919?af=R&rss=currentIssue",
+     "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2610014?af=R&rss=currentIssue",
+     "why": "It moves severe hypertriglyceridaemia treatment from lowering a number to preventing a dangerous admission.",
      "kind": "Trial",
      "image": null
     },
     {
-     "headline": "NEJM: stopping statins in older adults without CVD",
-     "body": "A deprescribing trial testing whether primary-prevention statins can be safely discontinued in older patients.",
+     "headline": "NEJM: community CPR push fails to lift cardiac arrest survival",
+     "body": "A county-randomised North Carolina trial of 22,459 out-of-hospital arrests combined dispatcher, first-responder AED, and community CPR training but did not improve survival with good neurological outcome. Takeaway: bystander CPR rates rose late, so the effect may need a longer, Denmark-style program.",
      "source": "NEJM",
-     "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2606634?af=R&rss=currentIssue",
+     "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612757?af=R&rss=currentIssue",
      "kind": "Trial",
      "image": null
     },
     {
-     "headline": "NEJM: pelacarsen outcomes trial in high Lp(a)",
-     "body": "The long-awaited cardiovascular outcomes result for antisense Lp(a) lowering, alongside ziltivekimab (IL-6 inhibition) in atherosclerosis.",
+     "headline": "NEJM: retatrutide delivers about 24% weight loss with joint and sleep benefits",
+     "body": "In TRIUMPH-1 (n=2,339), the triple agonist cut body weight 23.7% at 9 mg and 25.0% at 12 mg versus 3.9% on placebo at 80 weeks, and reduced knee osteoarthritis pain and the apnoea-hypopnoea index. Takeaway: GI effects were most common; expect it to reset the obesity drug benchmark.",
      "source": "NEJM",
-     "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2610159?af=R&rss=currentIssue",
+     "url": "https://www.nejm.org/doi/full/10.1056/NEJMe2613108?af=R&rss=currentIssue",
      "kind": "Trial",
      "image": null
     },
     {
-     "headline": "Grattan: specialist fees 'out of control and getting worse'",
-     "body": "Psychiatrists and dermatologists have the highest out-of-pocket gaps; Grattan wants governments to intervene. Specialist colleges partly agree.",
+     "headline": "Draft telehealth standards target commercial influence on prescribing",
+     "body": "The Australian Commission on Safety and Quality in Health Care wants virtual care executives to ensure treatment decisions are free from commercial influence, with summaries sent to a patient's regular GP.",
      "source": "Medical Republic",
-     "url": "https://www.medicalrepublic.com.au/specialist-fees-out-of-control-and-getting-worse-grattan/130836",
-     "image": "https://d1svk58pjf7hyt.cloudfront.net/wp-content/uploads/sites/6/2026/11/07162127/iStock-498175690-horse-1.jpg"
+     "url": "https://www.medicalrepublic.com.au/draft-telehealth-standards-call-out-commercial-interests/130864",
+     "image": "https://d1svk58pjf7hyt.cloudfront.net/wp-content/uploads/sites/6/2026/11/09152055/iStock-2207342395-modified-c5d2a3ee-3dc0-4c03-a6c6-e9b8ddea9e44.jpg"
     },
     {
-     "headline": "Cochrane: pharma payments linked to worse prescribing",
-     "body": "A systematic review found doctors who receive industry gifts or payments prescribe more and less appropriately.",
+     "headline": "Victoria's GP ADHD directory sent patients to closed books",
+     "body": "At least 15 listed services were not accepting new patients.",
+     "source": "Medical Republic",
+     "url": "https://www.medicalrepublic.com.au/adhd-clinic-directory-sends-patients-astray/130868",
+     "image": "https://d1svk58pjf7hyt.cloudfront.net/wp-content/uploads/sites/6/2026/11/09152721/iStock-2234713082-1.jpg"
+    },
+    {
+     "headline": "Cannabis-related admissions in Victoria up 49%",
+     "body": "Researchers are calling for public health measures as hospital admissions linked to cannabis rise.",
      "source": "Croakey Health Media",
-     "url": "https://www.croakey.org/research-prompts-call-to-tackle-pharmaceutical-industry-promotion-as-a-commercial-determinant-of-health/",
-     "image": "https://www.croakey.org/wp-content/uploads/2026/10/vitaly-gariev-8WYkI3cEZm8-unsplash-1-scaled.jpg"
-    },
-    {
-     "headline": "RACGP pitches specialist wait-time fix before NSW election",
-     "body": "Four months out from the March poll, GPs want parties to commit to cutting specialist queues.",
-     "source": "Medical Republic",
-     "url": "https://www.medicalrepublic.com.au/nsw-gps-pitch-fix-for-specialist-queues/130874",
-     "image": "https://d1svk58pjf7hyt.cloudfront.net/wp-content/uploads/sites/6/2026/11/09155119/iStock-1980142533_1.jpg"
-    },
-    {
-     "headline": "Hepatologists finally agree on a definition of ACLF",
-     "body": "A consensus definition of acute-on-chronic liver failure, after years of competing criteria.",
-     "source": "STAT News",
-     "url": "https://www.statnews.com/2026/11/09/acute-on-chronic-liver-failure-new-definition/?utm_campaign=rss",
-     "image": "https://www.statnews.com/wp-content/uploads/2023/12/AdobeStock_690454058-1024x576.jpeg"
+     "url": "https://www.croakey.org/public-health-measures-needed-to-tackle-rise-in-cannabis-related-harms/",
+     "image": "https://www.croakey.org/wp-content/uploads/2019/11/EmergencyCare.jpg"
     }
    ]
   },
@@ -383,25 +375,26 @@
    "title": "Science",
    "items": [
     {
-     "headline": "2026 on track to be the hottest year on record",
-     "body": "Scientists released the projection as COP31 opened; Nature reports the 1.5°C target is close to being overshot.",
-     "source": "BBC Science",
-     "url": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
-     "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3d7/live/1adcf6d0-db63-11f1-adda-c54f54e3ce6a.jpg"
+     "headline": "Vaccine trial against Bundibugyo virus begins",
+     "body": "The Tumaini trial is testing candidate vaccines against Bundibugyo, an ebolavirus with no licensed vaccine.",
+     "source": "The Lancet",
+     "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02239-7/fulltext?rss=yes",
+     "why": "Current Ebola vaccines target the Zaire strain, leaving outbreaks of this species without a preventive tool.",
+     "image": null
     },
     {
-     "headline": "Baxdrostat's effect lasts two years after stopping",
-     "body": "Patients with primary aldosteronism stayed in remission long after the aldosterone synthase inhibitor stopped, raising the prospect of a cure for a common cause of hypertension.",
-     "source": "Guardian Science",
-     "url": "https://www.theguardian.com/society/2026/nov/08/new-drug-high-blood-pressure-baxdrostat",
-     "image": "https://i.guim.co.uk/img/media/fad4e33bcddae0e5dd40cd1928698dc2850b785f/443_0_6142_4912/master/6142.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=94a1585ff425ee4deef7302063b77544"
+     "headline": "The super El Niño is a health shock as well as a climate one",
+     "body": "Nature argues heat, disease, and food insecurity from the event need health systems at the centre of planning.",
+     "source": "Nature",
+     "url": "https://www.nature.com/articles/d41586-026-03628-5",
+     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03628-5/d41586-026-03628-5_53940438.jpg"
     },
     {
-     "headline": "NASA opens applications for moon astronauts",
-     "body": "A new generation will live and work on the lunar surface; applications close 3 December.",
-     "source": "Guardian Science",
-     "url": "https://www.theguardian.com/science/2026/nov/08/nasa-astronauts-moon-applications-open",
-     "image": "https://i.guim.co.uk/img/media/3a9abe8a915ee753ebc3551a7608358908e01fe4/464_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d6a4736bbe1207edd2f27ade7639c0cc"
+     "headline": "How AI transformed mathematics",
+     "body": "Nature traces how AI tools moved from curiosity to a working part of mathematical research.",
+     "source": "Nature",
+     "url": "https://www.nature.com/articles/d41586-026-03627-6",
+     "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03627-6/d41586-026-03627-6_53920604.jpg"
     }
    ]
   },
@@ -410,115 +403,91 @@
    "title": "Dubbo & Central West",
    "items": [
     {
-     "headline": "Apprentice jockey Izzy Neale critical in Dubbo Hospital",
-     "body": "The 22-year-old rising star was seriously injured in a race fall in western NSW.",
-     "source": "Daily Liberal (Dubbo)",
-     "url": "https://www.dailyliberal.com.au/story/9387957/jockey-izzy-neale-critical-after-horror-race-fall-at-warren/?src=rss",
-     "image": "https://www.dailyliberal.com.au/images/transform/v1/crop/frm/255695061/40d78d64-2e3e-4410-adac-78300af82cf7.jpg/r0_150_3000_1725_w1200_h630_fmax.jpg"
+     "headline": "Parkes baby born at 32 weeks now thriving",
+     "body": "Maelie spent 86 days in hospital in Sydney and Orange after her lungs collapsed early; 18 months on, her mum says 'you wouldn't even know'.",
+     "source": "Daily Liberal",
+     "url": "https://www.dailyliberal.com.au/story/9386876/central-west-mum-reveals-premature-baby-survival-fight/?src=rss",
+     "why": "A reminder of how far regional families still travel for neonatal care.",
+     "image": "https://www.dailyliberal.com.au/images/transform/v1/crop/frm/YN4FA67iw2pXwXjwm2vmnJ/74d3377d-8e59-4621-bb17-70fda0b03d5b.jpeg/r0_897_3024_2485_w1200_h630_fmax.jpg"
     },
     {
-     "headline": "Four locally trained doctors join the rescue squad",
-     "body": "Eight new members were inducted, including four doctors who trained in the region.",
-     "source": "Daily Liberal (Dubbo)",
-     "url": "https://www.dailyliberal.com.au/story/9387035/brodie-cafe-joins-dubbo-vra-rescue-to-follow-late-father/?src=rss",
-     "image": "https://www.dailyliberal.com.au/images/transform/v1/crop/frm/248037697/3787cd2b-d744-4f80-87ac-2b2b6ac0e4dd.jpg/r0_476_4032_2593_w1200_h630_fmax.jpg"
-    },
-    {
-     "headline": "Universal preschool funding squeezes country preschools",
-     "body": "Celebrated in Sydney, the model is leaving regional preschools facing a funding shortfall.",
-     "source": "Daily Liberal (Dubbo)",
-     "url": "https://www.dailyliberal.com.au/story/9387817/central-west-preschools-face-nsw-funding-cuts-of-up-to-437k/?src=rss",
-     "image": "https://www.dailyliberal.com.au/images/transform/v1/crop/frm/GHcbaSNijNeVS4SULWDX8n/9c913eec-2785-4758-8e61-3b87a5b88b3a.jpg/r0_92_2040_1163_w1200_h630_fmax.jpg"
+     "headline": "Peter McDonald Premiership clubs make early 2027 signings",
+     "body": "Several clubs have already landed statement recruits in the off-season.",
+     "source": "Daily Liberal",
+     "url": "https://www.dailyliberal.com.au/story/9387053/all-the-signings-ahead-of-the-2027-peter-mcdonald-premiership/?src=rss",
+     "image": "https://www.dailyliberal.com.au/images/transform/v1/crop/frm/dCXpDgwTEgA52iNCe5aWtJ/89a21a31-c7d0-4b51-ab62-00ce7a68295c.jpg/r0_11_2040_1082_w1200_h630_fmax.jpg"
     }
    ]
   }
  ],
  "opinion": [
   {
-   "title": "Labor will have to change tactics if Andrew Hastie leads the Liberals",
-   "author": "Patricia Karvelas",
-   "outlet": "ABC",
-   "url": "https://www.abc.net.au/news/2026-11-09/andrew-hastie-coalition-opposition-leader/107360892",
-   "gist": "Hastie would be built to fight One Nation on its own turf, and Labor's playbook isn't ready for it.",
+   "title": "Both worse and better",
+   "author": "Michael Jacobs",
+   "outlet": "Inside Story",
+   "url": "https://insidestory.org.au/both-worse-and-better/",
+   "gist": "Warming is accelerating, but cheap electrification offers a real path that COP31's formal talks largely ignore.",
    "lean": "Centre",
-   "image": "https://live-production.wcms.abc-cdn.net.au/87d0880838f5c05c44a841a899d4b3a0?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=339&width=862&height=485&imformat=generic"
+   "image": null
   },
   {
-   "title": "Victorian Labor: a 'credibility-free' zone",
-   "author": "Dight Canning",
-   "outlet": "The Spectator Australia",
-   "url": "https://www.spectator.com.au/2026/11/victorian-labor-a-credibility-free-zone/",
-   "gist": "Why federal Labor MPs are keeping their distance from the Allan government.",
-   "lean": "Right",
-   "image": "https://www.spectator.com.au/wp-content/uploads/2026/08/GettyImages-2287900871.jpg"
-  },
-  {
-   "title": "Interest rate hikes are a crude tool, until you look at the alternatives",
-   "author": "Jessica Irvine",
-   "outlet": "ABC",
-   "url": "https://www.abc.net.au/news/2026-11-09/are-there-alternatives-to-interest-rate-rises/107360716",
-   "gist": "Every other inflation lever is slower, more political, or both.",
+   "title": "The Philippines is looking to develop an \"expeditionary navy\"",
+   "author": "Vincent Kyle Parada",
+   "outlet": "Lowy Interpreter",
+   "url": "https://www.lowyinstitute.org/the-interpreter/the-philippines-is-looking-to-develop-an-expeditionary-navy",
+   "gist": "Manila wants a blue-water navy, but its frigates lack weapons and its fleet lacks fuel to go far.",
    "lean": "Centre",
-   "image": "https://live-production.wcms.abc-cdn.net.au/1f389968b1dfcc5cb0259c62847c5698?impolicy=wcms_watermark_news&cropH=1861&cropW=3309&xPos=827&yPos=122&width=862&height=485&imformat=generic"
+   "image": "https://cdn.sanity.io/images/5dcouzig/production/8b5841f7ad066eef0274d4a8e405f26e328a53a7-5086x3072.jpg?rect=0,201,5086,2670&w=1200&h=630&fm=webp&q=85&fit=crop"
   },
   {
-   "title": "Donald Trump defied populism to do what was right",
-   "author": "Rowan Dean",
+   "title": "The point-scoring over the Krakow shooting has already begun",
+   "author": "Bartek Staniszewski",
    "outlet": "The Spectator Australia",
-   "url": "https://www.spectator.com.au/2026/11/donald-trump-defied-populism-and-the-woke-right-podcasters-to-do-what-was-right/",
-   "gist": "A defence of Trump against his critics after the midterms.",
+   "url": "https://www.spectator.com.au/2026/11/the-point-scoring-over-the-krakow-shooting-has-already-begun/",
+   "gist": "Polish politicians rushed to weaponise the attack before the facts were known.",
    "lean": "Right",
-   "image": "https://www.spectator.com.au/wp-content/uploads/2026/03/GettyImages-2188170432.jpg"
+   "image": "https://www.spectator.com.au/wp-content/uploads/2026/11/GettyImages_2303684864_e1794160909642.jpg"
   },
   {
-   "title": "What's more powerful than the politics of division? Listening",
-   "author": "Julianne Schultz",
-   "outlet": "Guardian Australia",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/08/listening-more-powerful-than-politics-of-division-us-midterms-australia-ntwnfb",
-   "gist": "The US result shows populism isn't inevitable; what Australia should take from it.",
+   "title": "Keir Starmer is wrong to think Nato is unsalvageable",
+   "author": "Eliot Wilson",
+   "outlet": "The Spectator Australia",
+   "url": "https://www.spectator.com.au/2026/11/keir-starmer-is-wrong-to-think-nato-is-unsalvageable/",
+   "gist": "Europe should build up its own defence co-operation inside the alliance rather than give up on it.",
+   "lean": "Right",
+   "image": "https://www.spectator.com.au/wp-content/uploads/2026/11/GettyImages_2286278467_e1794136736295.jpg"
+  },
+  {
+   "title": "We can't just 'move on': Democrats must hold Trump accountable",
+   "author": "Jan-Werner Müller",
+   "outlet": "Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/09/democrats-trump-congress",
+   "gist": "The new Congress must end the culture of political impunity rather than turn the page.",
    "lean": "Left",
-   "image": "https://i.guim.co.uk/img/media/40a7a75bc62761a3813e23577c0ea81d394028e1/293_0_2915_2333/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=aff3f4183dc2d1a48b80c34cb18277b6"
+   "image": "https://i.guim.co.uk/img/media/0bd9bf1d438b00c1b7859ee5c408548df37675d2/341_0_4196_3356/master/4196.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=115f9d6e6cb9e03cb491291ae6afab69"
   },
   {
-   "title": "New Zealand's foreign policy could change, but not for weeks",
-   "author": "Anna Fifield",
-   "outlet": "Lowy Institute",
-   "url": "https://www.lowyinstitute.org/the-interpreter/new-zealand-s-foreign-policy-could-change-but-we-won-t-know-for-weeks",
-   "gist": "Election limbo leaves our closest neighbour without a voice at APEC and COP.",
-   "lean": "Centre",
-   "image": "https://cdn.sanity.io/images/5dcouzig/production/ab6bef29599e72599854c493e6a9781547f789a4-6883x4591.jpg?rect=0,489,6883,3614&w=1200&h=630&fm=webp&q=85&fit=crop"
+   "title": "Today's AI won't achieve superintelligence. But catastrophic risk is real",
+   "author": "Sunita Verma",
+   "outlet": "Guardian Australia",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/09/ai-superintelligence-risk",
+   "gist": "The same technical limits that rule out superintelligence make current systems dangerous, and we know how to manage that.",
+   "lean": "Left",
+   "image": "https://i.guim.co.uk/img/media/61f2a12727abb4833954c062ef986ee4b1361691/497_0_4966_3972/master/4966.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=fb76d06146c1e9968b117aadd6f8d564"
   }
  ],
- "radar": [
-  {
-   "date": "2026-11-10",
-   "label": "Russia–Ukraine–US peace talks",
-   "detail": "First round since February"
-  },
-  {
-   "date": "2026-11-20",
-   "label": "COP31 closes",
-   "detail": "Climate summit under way now"
-  },
-  {
-   "date": "2026-11-28",
-   "label": "Victorian state election",
-   "detail": "Live results here on the night"
-  },
-  {
-   "date": "2026-11-30",
-   "label": "NZ final election result",
-   "detail": "Approximate; coalition talks after"
-  },
-  {
-   "date": "2027-03-27",
-   "label": "NSW state election",
-   "detail": ""
-  }
- ],
- "tidbit": "The RBA's 6–3 vote in November is only visible because the new Monetary Policy Board, which replaced the old Reserve Bank Board in 2025, publishes how many members voted each way.",
  "sport": {
   "results": [
+   {
+    "comp": "Rugby League World Cup",
+    "home": "Australia",
+    "away": "Samoa",
+    "homeScore": 44,
+    "awayScore": 12,
+    "status": "Semi-final, full time",
+    "when": "Sun 8 Nov",
+    "following": true
+   },
    {
     "comp": "Premier League",
     "home": "Crystal Palace",
@@ -577,6 +546,22 @@
   ],
   "upcoming": [
    {
+    "comp": "Women's Rugby League World Cup",
+    "home": "Australia",
+    "away": "New Zealand",
+    "status": "Final, Suncorp Stadium",
+    "when": "Sun 15 Nov, 3:10pm",
+    "following": true
+   },
+   {
+    "comp": "Rugby League World Cup",
+    "home": "Australia",
+    "away": "New Zealand",
+    "status": "Final, Suncorp Stadium",
+    "when": "Sun 15 Nov, 6:35pm",
+    "following": true
+   },
+   {
     "comp": "Premier League",
     "home": "Liverpool",
     "away": "Man United",
@@ -601,56 +586,100 @@
   ],
   "stories": [
    {
-    "headline": "Warner backs Khawaja's ball-tampering claim as '100 per cent accurate'",
-    "body": "David Warner broke his silence on Sandpapergate to support his former teammate and criticise Cricket Australia's handling of it.",
+    "headline": "Kangaroos thump Samoa to set up a trans-Tasman final",
+    "body": "Australia beat Samoa 44 to 12 before 41,259 fans at Allianz Stadium and will meet New Zealand in Sunday's final in Brisbane; Samoa's Spencer Leniu copped a two-match ban for a money gesture at referees.",
+    "source": "NRL.com",
+    "url": "https://www.nrl.com/news/2026/11/08/clinical-kangaroos-sink-samoa-to-storm-into-cup-final/",
+    "image": "https://www.nrl.com/siteassets/2026/world-cup/mens-world-cup/semi-finals/kangaroos-v-samoa/game-photos/83061811_prestonj-celeb-261108_akk_4130_2026118203330.jpg?center=0.352%2C0.543&preset=share"
+   },
+   {
+    "headline": "Cameron Bruce named Brisbane Lions coach",
+    "body": "The Lions went in-house to replace three-time premiership coach Chris Fagan with his long-time assistant.",
     "source": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-09/cricket-warner-backs-khawaja-ball-tampering-claims-slams-probe/107365778",
-    "image": "https://live-production.wcms.abc-cdn.net.au/014a13b561f7d04d9f44c0f274d17689?impolicy=wcms_watermark_news&cropH=2330&cropW=4143&xPos=0&yPos=240&width=862&height=485&imformat=generic"
+    "url": "https://www.abc.net.au/news/2026-11-09/afl-cameron-bruce-brisbane-lions-new-senior-coach/107365956",
+    "image": "https://live-production.wcms.abc-cdn.net.au/915ce2ea5ec791d5e888e59a22d693ba?impolicy=wcms_watermark_news&cropH=1501&cropW=2668&xPos=0&yPos=333&width=862&height=485&imformat=generic"
    }
   ]
  },
+ "radar": [
+  {
+   "date": "2026-11-10",
+   "label": "Russia-Ukraine-US talks",
+   "detail": "Two days in Abu Dhabi"
+  },
+  {
+   "date": "2026-11-11",
+   "label": "Remembrance Day",
+   "detail": "Minute's silence at 11am"
+  },
+  {
+   "date": "2026-11-15",
+   "label": "Rugby League World Cup finals",
+   "detail": "Australia v New Zealand, men's and women's, Brisbane"
+  },
+  {
+   "date": "2026-11-20",
+   "label": "COP31 closes",
+   "detail": "Big Build royal commission hearings also end"
+  },
+  {
+   "date": "2026-11-28",
+   "label": "Victorian state election",
+   "detail": ""
+  },
+  {
+   "date": "2027-03-27",
+   "label": "NSW state election",
+   "detail": ""
+  }
+ ],
+ "tidbit": "COP31 is the first UN climate conference where Australia chairs the formal negotiations, under a deal that has Türkiye hosting the summit while Chris Bowen runs the talks.",
  "podcast": {
   "title": "Evening edition in 10 minutes",
   "chapters": [
    {
     "title": "Welcome",
-    "text": "Good evening Chris, and welcome to your evening briefing for Monday the ninth of November. Over the next few minutes: Trump's midterm defeat turns into a fight over his defence secretary, interest rate pain lands on Labor, a startling Victorian poll, Ukraine strikes a Russian refinery on the eve of peace talks, and a new shot at government for Netanyahu's rival. Then markets, health, and what's happening around Dubbo."
+    "text": "Good evening Chris, and welcome to your evening briefing for Monday the ninth of November. Tonight: Russia, Ukraine, and the United States head back to the table in Abu Dhabi. Donald Trump meets Qatar's prime minister as Iran pitches a two-day peace plan. The big UN climate summit opens in Türkiye, with an Australian running the talks. Victoria's royal commission into the construction union goes public, three weeks out from the state election. And a spy scandal hits the world's most valuable company, Nvidia. Then a quick lap of the world, the markets, some big new trials in medicine, and news from around the Central West."
    },
    {
-    "title": "Trump and Hegseth",
-    "text": "First, America. After last week's crushing result in the US midterms, Congress has given Donald Trump an ultimatum. Fire his defence secretary, Pete Hegseth, or face impeachment proceedings. Republicans are now openly arguing about whether to stay with Trumpism for the president's final two years, and analysts are pointing to the Iran war and the cost of living as the reasons voters turned. For Australia, a weaker White House matters for AUKUS, for tariffs, and for the artificial intelligence boom that has carried share markets this year."
+    "title": "Ukraine talks in Abu Dhabi",
+    "text": "First, the war in Ukraine. Negotiators from Russia, Ukraine, and the United States sit down in Abu Dhabi tomorrow for two days of talks. It's the first round since February, and US Secretary of State Marco Rubio says security guarantees for Ukraine after the war will be the main focus. Neither side has softened much. Russia still wants Ukraine to pull out of four regions it claims to have annexed, give up on joining NATO, and accept limits on its military. Ukraine refuses to cede territory and wants a ceasefire first. Both sides spent the eve of the talks hitting energy targets. Ukrainian drones set fire to the Kirishi refinery near Saint Petersburg, Russia's second biggest, and a local woman was killed by falling debris. Russia says it struck three Ukrainian power substations, part of a campaign against the grid as winter arrives, while Ukraine runs short of Patriot interceptors. Expectations are low, but any agreed shape for security guarantees would be the first real step toward a framework for peace."
    },
    {
-    "title": "Rates and Labor",
-    "text": "At home, the economy is biting the government. The Reserve Bank has lifted rates five times this year, taking the cash rate to four point eight five per cent, and its last decision was a split vote, six to three. Environment Minister Murray Watt has told his colleagues to stop undermining Treasurer Jim Chalmers after a tense budget savings meeting. On the other side, the Coalition is weighing up Andrew Hastie as leader, partly to deal with Pauline Hanson's One Nation, which keeps climbing in the polls."
+    "title": "Iran and Qatar",
+    "text": "Next, the Iran war. Donald Trump is meeting Qatar's prime minister, Sheikh Mohammed bin Abdulrahman Al Thani, at the White House as Doha tries to restart talks between Washington and Tehran. Iran has put forward a revised two-day plan. On day one, the United States would act on agreed measures, and on day two, the Strait of Hormuz would reopen to shipping. But Iran's list of conditions is long: ending the American blockade of its ports, lifting sanctions, unfreezing assets, and compensation for war damage. Marco Rubio calls those demands unacceptable and says no breakthrough is close. Trump says new strikes are highly unlikely if talks progress, but warns more targets have been identified. Why does this matter here? Because this war has kept oil near a hundred US dollars a barrel, fed the inflation behind this year's interest rate hikes, and played a big part in Trump's midterm losses."
    },
    {
-    "title": "Victoria",
-    "text": "Which brings us to Victoria, where voters go to the polls on the twenty eighth of November. A new poll has Labor at an all time low of just eighteen per cent, behind One Nation on twenty one and the Coalition on thirty three. At the same time, the royal commission into the Big Build has heard the construction union enjoyed a significant level of influence over the state government. And in New South Wales, Premier Chris Minns called a One Nation candidate's claim that Australians are being demographically replaced outrageous and racist."
+    "title": "COP31 opens with Australia in the chair",
+    "text": "Now to climate. The COP31 summit opened today in Antalya, in Türkiye, and it is a first for Australia. Under a deal struck last year, Türkiye hosts the conference, but Climate Change and Energy Minister Chris Bowen is President of Negotiations, meaning he chairs the formal talks. He has a heavy in-tray, with plenty of hard questions pushed over from June's session in Bonn: rules for carbon markets, how to measure adaptation, a mechanism for a just transition, and money for developing countries. Pacific nations, who hosted a pre-summit in Fiji and Tuvalu last month, backed a goal of electricity supplying thirty five per cent of the world's energy by twenty thirty five. All of this happens as scientists predict this will be the hottest year on record. Bowen will also face questions about Australia's own coal and gas exports. The talks run until the twentieth of November."
    },
    {
-    "title": "Ukraine and Russia",
-    "text": "In Europe, a Ukrainian drone strike has set fire to the Kirishi refinery near Saint Petersburg, Russia's second largest, killing a local woman. The timing matters. It came a day before Russian, Ukrainian, and American negotiators sit down for their first peace talks since February. Refinery strikes have become Kyiv's main way of squeezing Russia's war economy, so watch whether they become a bargaining chip."
+    "title": "The Big Build royal commission",
+    "text": "In Victoria, the royal commission into the construction union and the state's Big Build infrastructure program held its first public hearing today. Counsel assisting, Chris Young KC, tabled memos from the builder John Holland describing what it called the union's unprecedented access to ministers. The first case study was a twenty twenty two stop-work at a level crossing removal site in Sunbury, where notes recorded the union warning it would smash a subcontractor. Counsel was careful to say these are allegations, and some are denied. Premier Ben Carroll says he had no knowledge of the union's access and that the hearings show he will make tough decisions. The politics are brutal, though. These hearings run until the twentieth of November, just eight days before Victorians vote, with Labor polling at record lows."
    },
    {
-    "title": "Israel",
-    "text": "In Israel, the president has asked former military chief Gadi Eisenkot to try to form a government, after an election left the parliament deadlocked and Benjamin Netanyahu's coalition without a majority. Eisenkot is reaching out to some of Netanyahu's own allies, and says the country is approaching a point of no return. It's the first realistic chance in years of Israel being led by someone other than Netanyahu."
+    "title": "Nvidia's spy scandal",
+    "text": "Our fifth story is about money, and possibly your money. Nvidia, the chipmaker at the heart of the AI boom and the world's most valuable company, has launched an independent investigation into its chief executive, Jensen Huang. The New York Times and the Financial Times reported that American officials believed a Singapore-based executive, who had a close relationship with Huang, was working for Chinese intelligence. Huang has admitted an affair in a memo to staff and apologised, but remains in charge. The board says it has no reason to think national security or company secrets were compromised, and China calls the claims smears. Nvidia shares fell more than four per cent. Because Nvidia is one of the biggest holdings in global index funds, a crisis there flows straight through to diversified portfolios like yours."
    },
    {
     "title": "Around the world",
-    "text": "Briefly around the world. Poland is treating a mass shooting in Krakow's old town square as terrorism, after six people were killed. New Zealand is facing weeks without a government, with its election too close to call. The ANC has recorded its worst ever result in South Africa. And Houthi rebels have struck a tower in the heart of the Saudi capital, Riyadh."
+    "text": "A quick lap of the world. Donald Trump has told the program Sixty Minutes that his deportation policy was too tough and hurt him at the midterms, and he's open to an immigration deal with Democrats. Yet he has just promoted Stephen Miller, the architect of that policy, to chief of staff. In Poland, the twenty four year old gunman who killed six people in Krakow's main square has died in hospital, and the terrorism investigation continues. Winter rain has flooded tent camps in Gaza, where a collapsing sandbank killed four children and a woman. At least thirty four people have died after a migrant boat sank off Senegal, heading for the Canary Islands. And closer to home, Environment Minister Murray Watt has told his Labor colleagues to stop undermining Treasurer Jim Chalmers, a sign of how rattled the government is after five rate rises. In New South Wales, Premier Chris Minns has called comments by One Nation's lead upper house candidate, Stuart Bonds, outrageous and racist, after Bonds claimed Australians are being demographically replaced. And in Western Australia, Aboriginal Affairs Minister Don Punch is facing calls to resign over reports of children living in squalid conditions in South Hedland."
    },
    {
     "title": "Markets",
-    "text": "To markets. The ASX two hundred edged up a tenth of a per cent to about nine thousand and thirty. Miners carried the day while every big bank fell, including ANZ, which slipped more than three per cent despite a seven point three billion dollar profit. The Aussie dollar is near sixty nine US cents. Brent oil is steady around ninety eight dollars after its steepest weekly fall since the start of COVID. And Nvidia, the biggest single weight in most global growth funds, has launched an investigation into its own chief executive after a report linked him to Chinese intelligence."
+    "text": "To the markets. The ASX two hundred finished the day up a tenth of one per cent at about nine thousand and thirty. Miners did the heavy lifting, with uranium stocks Paladin and Boss Energy up more than ten per cent and BHP up two point four. The banks went the other way, led by ANZ, which fell more than three per cent despite a profit of seven point three billion dollars. The Australian dollar is buying just under sixty nine US cents. Brent crude is flat around ninety eight dollars a barrel, gold is up one point four per cent to about four thousand one hundred and twenty US dollars an ounce, and Bitcoin is near seventy four and a half thousand. The cash rate stays at four point eight five per cent after five hikes this year. Overnight, watch Nvidia."
    },
    {
     "title": "Health and medicine",
-    "text": "In health and medicine. This week's New England Journal has a trial of starting extracorporeal life support before patients reach hospital in refractory cardiac arrest, which is worth a read given your paramedic background. There's also a statin deprescribing trial in older adults, and the outcomes result for pelacarsen in high lipoprotein a. Closer to home, the Grattan Institute says specialist fees are out of control, with psychiatrists and dermatologists charging the biggest gaps. And a Cochrane review has found doctors who take industry payments prescribe more, and less appropriately."
+    "text": "In medicine, three trials worth knowing. In the New England Journal, the SHASTA three and four trials tested plozasiran, a small interfering RNA against apolipoprotein C three, in seven hundred and fifty seven adults with severe hypertriglyceridaemia. Triglycerides fell by about eighty per cent, and acute pancreatitis dropped from five to one per hundred patient years, with a Perth researcher as first author. Also in the journal, a large North Carolina trial found that training dispatchers, first responders, and communities in CPR did not improve survival after cardiac arrest, though bystander CPR rates did rise late in the study. And the triple agonist retatrutide produced around twenty four per cent weight loss at eighty weeks, with less knee pain and fewer apnoeas. Closer to home, draft national telehealth standards would require virtual clinics to keep prescribing free from commercial influence."
    },
    {
     "title": "Dubbo and the Central West",
-    "text": "And finally, around Dubbo. Apprentice jockey Izzy Neale is in a critical condition in Dubbo Hospital after a race fall, with tributes flowing for the twenty two year old. Four locally trained doctors are among eight new members of the rescue squad. And regional preschools say the new universal funding model, celebrated in Sydney, is leaving them facing a shortfall. That's your evening briefing. The next edition lands at six tomorrow morning."
+    "text": "Around the Central West, a lovely story from Parkes. Teagan's daughter Maelie was born at thirty two weeks after a difficult pregnancy, spent eighty six days in hospital between Sydney and Orange, and is now thriving at eighteen months. And in the Peter McDonald Premiership, clubs are already making early signings for twenty twenty seven."
+   },
+   {
+    "title": "Sign-off",
+    "text": "In sport, the Kangaroos thumped Samoa forty four to twelve and meet New Zealand in Sunday's World Cup final in Brisbane, with the Jillaroos also facing New Zealand earlier that afternoon. That's your evening briefing, Chris. Your morning edition lands at six tomorrow, with the first day of the Abu Dhabi talks and how Wall Street took the Nvidia news. Have a good night."
    }
   ]
  }
