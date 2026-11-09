@@ -1,14 +1,14 @@
 # Look up requests
 
-Chris's Paper has a Look up tab. When Chris types a topic, the app writes `requests/<id>.json`:
+Chris's Paper has a Look up tab. When Chris types a topic, the app writes `requests/<id>.json` to this repo:
 
 ```json
 { "id": "20261110-071500-ab12", "query": "Why is the Murray mouth closing?", "askedAt": "2026-11-10T07:15:00Z", "status": "open" }
 ```
 
 ## How to answer (every edition run, before writing the edition)
-1. List `requests/`. A request is open when `answers/<same id>.json` doesn't exist yet.
-2. For each open request, research the topic on the web (prefer free, reputable sources; never paywalled journal links, see README) and write `answers/<id>.json`:
+1. List open requests: https://api.github.com/repos/Christoph-1892/chris-paper-feed/contents/requests (public, no token needed). A request is open when `answers/<same id>.json` doesn't exist in this repo yet.
+2. For each open request, research the topic on the web (free, reputable sources; never paywalled journal links, see README) and write the answer to `feed/answers/<id>.json` on the `paper-feed` branch of Christoph-1892/tick, in the same commit as the edition. The publisher mirrors it here as `answers/<id>.json`.
 
 ```json
 {
@@ -26,4 +26,4 @@ Chris's Paper has a Look up tab. When Chris types a topic, the app writes `reque
 ```
 3. Leave the request file in place (the app matches answers by id). The app picks up the answer next time Chris opens the Look up tab.
 
-`headline`, `body`, and `id` are required; everything else is optional.
+`id`, `headline`, and `body` are required; everything else is optional.
