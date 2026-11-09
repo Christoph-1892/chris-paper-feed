@@ -361,8 +361,8 @@
     {
      "headline": "NEJM: on-scene ECPR doubles survival in young refractory cardiac arrest",
      "body": "In the Dutch ON-SCENE stepped-wedge study (n=231, aged 18 to 50), helicopter teams able to start ECPR on scene achieved 40% survival to discharge versus 20% with conventional care (OR 2.72), and good neurological outcome at six months in 36% versus 13%. Takeaway: a strong signal for taking ECMO to the patient, but it is non-randomised, so causation is not proven.",
-     "source": "NEJM (free abstract on PubMed)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/43001740/",
+     "source": "NEJM",
+     "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602919?af=R&rss=currentIssue",
      "why": "It shifts the ECPR debate from 'load and go' to bringing the circuit to the kerb, a model that would need HEMS and retrieval services to redesign how they respond.",
      "kind": "Trial",
      "image": null
@@ -377,16 +377,16 @@
     {
      "headline": "NEJM: pelacarsen cuts Lp(a) 78% but not cardiovascular events",
      "body": "Lp(a)HORIZON randomised 8,323 people with Lp(a) of at least 70 mg/dL and found no difference in major adverse cardiovascular events despite a 78% fall in Lp(a). Takeaway: Lp(a) stays a risk marker rather than a proven treatment target for now.",
-     "source": "NEJM (free abstract on PubMed)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/43001734/",
+     "source": "NEJM",
+     "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2610159?af=R&rss=currentIssue",
      "kind": "Trial",
      "image": null
     },
     {
      "headline": "NEJM: IL-6 blockade with ziltivekimab fails in ZEUS",
      "body": "In 6,376 patients with atherosclerosis, CKD, and hsCRP of at least 2 mg/L, ziltivekimab cut hsCRP by 64% but MACE was 17.6% versus 17.7% (HR 0.99), with more serious infections (20.4% vs 17.9%). Takeaway: lowering inflammation markers did not prevent events in this group and came at an infection cost.",
-     "source": "NEJM (free abstract on PubMed)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/43001751/",
+     "source": "NEJM",
+     "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612126?af=R&rss=currentIssue",
      "kind": "Trial",
      "image": null
     },
