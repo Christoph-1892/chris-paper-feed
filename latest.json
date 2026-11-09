@@ -1,0 +1,466 @@
+{
+ "id": "2026-11-09-pm",
+ "date": "2026-11-09",
+ "edition": "Evening",
+ "publishedAt": "2026-11-09T20:40:00+10:00",
+ "readMinutes": 10,
+ "markets": {
+  "asOf": "ASX close, Mon 9 Nov",
+  "tiles": [
+   {
+    "label": "ASX 200",
+    "value": "9,030",
+    "change": "+0.1%",
+    "dir": "up"
+   },
+   {
+    "label": "AUD/USD",
+    "value": "68.89¢",
+    "change": "+0.4%",
+    "dir": "up"
+   },
+   {
+    "label": "Cash rate",
+    "value": "4.85%",
+    "change": "5 hikes in 2026",
+    "dir": "flat"
+   },
+   {
+    "label": "Brent",
+    "value": "US$98.33",
+    "change": "flat",
+    "dir": "flat"
+   },
+   {
+    "label": "Gold",
+    "value": "US$4,121",
+    "change": "+1.4%",
+    "dir": "up"
+   },
+   {
+    "label": "Bitcoin",
+    "value": "US$74,522",
+    "change": "+0.7%",
+    "dir": "up"
+   }
+  ],
+  "note": "Miners carried a flat market while every big bank closed lower. Brent fell 17% last week, its steepest weekly drop since the start of COVID.",
+  "source": {
+   "name": "ABC Business",
+   "url": "https://www.abc.net.au/news/2026-11-09/asx-markets-business-live-news/107361534"
+  }
+ },
+ "lead": [
+  {
+   "headline": "Trump's midterm rout turns into a fight over Hegseth",
+   "body": "After a crushing defeat in last week's US midterms, Congress has given Donald Trump an ultimatum: fire Defence Secretary Pete Hegseth or face impeachment proceedings. Republicans are now split over whether to stick with Trumpism for his final two years. Analysts credit the Iran war and living costs for the swing.",
+   "why": "A weakened White House changes the outlook for the Iran war, AUKUS, tariffs, and the AI boom that has carried markets.",
+   "tag": "World",
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-09/donald-trump-revamping-team-and-pete-hegeth-could-be-next/107358974"
+    },
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "Guardian Opinion",
+     "url": "https://www.theguardian.com/commentisfree/2026/nov/07/pete-hegseth-midterms-consequences"
+    }
+   ]
+  },
+  {
+   "headline": "Rate pain lands on Chalmers as Labor turns on itself",
+   "body": "Mortgage holders have absorbed five RBA hikes this year, taking the cash rate to 4.85%. Environment Minister Murray Watt has told colleagues to stop undermining Treasurer Jim Chalmers after a budget savings meeting. The Coalition is weighing Andrew Hastie as leader to take on Labor and a surging One Nation.",
+   "why": "Mortgage costs, the budget update, and the next federal election all hinge on whether inflation turns before the RBA does more.",
+   "tag": "Politics",
+   "sources": [
+    {
+     "name": "Guardian Australia",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/09/stop-undermining-treasurer-jim-chalmers-environment-minister-urges-colleagues"
+    },
+    {
+     "name": "ABC Politics",
+     "url": "https://www.abc.net.au/news/2026-11-09/andrew-hastie-coalition-opposition-leader/107360892"
+    },
+    {
+     "name": "ABC Business",
+     "url": "https://www.abc.net.au/news/2026-11-09/are-there-alternatives-to-interest-rate-rises/107360716"
+    }
+   ]
+  },
+  {
+   "headline": "Victorian Labor polls 18%, behind One Nation, with three weeks to go",
+   "body": "A new poll has Labor at an all-time low of 18%, behind One Nation on 21% and the Coalition on 33%, ahead of the 28 November state election. At the same time the Big Build royal commission heard the CFMEU 'enjoyed a significant level of influence' over the government. NSW Premier Chris Minns called a One Nation candidate's 'demographic replacement' claim racist.",
+   "why": "If those numbers hold it would be a historic collapse, and One Nation's rise is now reshaping both major parties federally.",
+   "tag": "Australia",
+   "sources": [
+    {
+     "name": "Guardian Australia",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/09/victoria-election-2026-labor-mps-new-opinion-poll-one-nation-ntwnfb"
+    },
+    {
+     "name": "Guardian Australia",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/09/big-build-royal-commission-hears-cfmeu-enjoy-a-significant-level-of-influence-over-victorian-government-ntwnfb"
+    },
+    {
+     "name": "Guardian Australia",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/09/one-nation-stuart-bonds-slammed-immigration-comments-ntwnfb"
+    }
+   ]
+  },
+  {
+   "headline": "Ukraine sets Russia's second-biggest refinery ablaze on eve of peace talks",
+   "body": "A Ukrainian drone strike set the Kirishi refinery near St Petersburg on fire, killing a local woman. It came a day before Russian, Ukrainian, and US negotiators meet for their first talks since February.",
+   "why": "The talks are the first real diplomatic track in nine months; refinery strikes are Kyiv's main lever on Russia's war economy.",
+   "tag": "Wars",
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-09/ukrainian-drone-attack-at-russia-kirishi-refinery-woman-dies/107365888"
+    }
+   ]
+  },
+  {
+   "headline": "Netanyahu's rival Eisenkot gets first shot at forming Israel's government",
+   "body": "Israel's president has asked former military chief Gadi Eisenkot to form a government after an election left the Knesset deadlocked and Netanyahu's coalition without a majority. Eisenkot is courting Netanyahu's allies and says the country is near a 'point of no return'.",
+   "why": "The first realistic chance in years of Israel being led by someone other than Netanyahu, with the Gaza and Iran fronts still open.",
+   "tag": "Wars",
+   "sources": [
+    {
+     "name": "Guardian World",
+     "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
+    },
+    {
+     "name": "Guardian World",
+     "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government"
+    }
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "australia",
+   "title": "Australia",
+   "items": [
+    {
+     "headline": "Victoria Barracks stays public after veterans' backlash",
+     "body": "The PM has scrapped the sale of four heritage defence sites, including the Sydney and Melbourne barracks, after an audit recommended selling them. Richard Marles denies defence loses out.",
+     "source": "Guardian Australia",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles"
+    },
+    {
+     "headline": "TikTok grilled over self-harm content",
+     "body": "David Pocock pressed TikTok executives at the Senate inquiry into the government's Digital Duty of Care bill.",
+     "source": "ABC Politics",
+     "url": "https://www.abc.net.au/news/2026-11-09/federal-politics-live-blog-digital-duty-of-care-/107362100"
+    },
+    {
+     "headline": "Aged care waits stretch to two years",
+     "body": "South Australia has the longest waits for residential aged care beds in the country; families describe 'inhumane' choices.",
+     "source": "ABC Politics",
+     "url": "https://www.abc.net.au/news/2026-11-09/residential-aged-care-bed-waitlist-south-australia-families/107341030"
+    },
+    {
+     "headline": "Another AI data centre scrapped after local revolt",
+     "body": "Community opposition has now killed a run of proposed data centres; the ACT Conservation Council wants a moratorium.",
+     "source": "ABC NSW",
+     "url": "https://www.abc.net.au/news/2026-11-08/sydney-ai-data-centre-scrapped-after-community-backlash/107360592"
+    },
+    {
+     "headline": "Bathla collapse leaves workers unpaid and estates half-built",
+     "body": "Former staff of the failed Sydney developer speak out about unpaid wages; buyers face unfinished 'wastelands'.",
+     "source": "ABC NSW",
+     "url": "https://www.abc.net.au/news/2026-11-09/workers-break-silence-after-bathla-collapse/107339658"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World",
+   "items": [
+    {
+     "headline": "Poland treats Krakow market-square shooting as terrorism",
+     "body": "Six people were killed in the Old Town's main square; the 24-year-old gunman has died in hospital. Two police officers who confronted him are being called heroes.",
+     "source": "ABC World",
+     "url": "https://www.abc.net.au/news/2026-11-09/poland-treating-mass-shooting-as-terrorist-offence/107362106"
+    },
+    {
+     "headline": "New Zealand faces weeks without a result",
+     "body": "National will be the largest party but neither bloc has a clear win. The final count takes three weeks and coalition talks longer, costing NZ its voice at APEC and COP31.",
+     "source": "Guardian World",
+     "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
+    },
+    {
+     "headline": "Houthi strike hits Aramco tower in central Riyadh",
+     "body": "BBC Verify confirmed damage to the building in the Saudi capital's financial district as the Houthis launched fresh strikes.",
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "headline": "ANC records its worst-ever result in South Africa",
+     "body": "Ramaphosa says the verdict must be respected; the party's secretary-general called it 'catastrophic'.",
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "headline": "Pope Leo rebukes Milei's austerity in Argentina",
+     "body": "On the second leg of his Latin America tour, the Pope said the economy must benefit everyone, in a pointed message to the libertarian president.",
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "headline": "Iran executes three men over January protests",
+     "body": "The men were convicted of 'armed unrest' following anti-government protests earlier this year.",
+     "source": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "money",
+   "title": "Money",
+   "items": [
+    {
+     "headline": "ANZ profit up 23% to $7.3b, shares still fall 3.2%",
+     "body": "Investors looked past the headline to the detail. Banks dragged the ASX; BHP rose 2.4%.",
+     "source": "ABC Business",
+     "url": "https://www.abc.net.au/news/2026-11-09/asx-markets-business-live-news/107361534"
+    },
+    {
+     "headline": "Nvidia investigates its own CEO over a Chinese intelligence report",
+     "body": "Jensen Huang admitted an affair with a woman reported to have passed information to Beijing. Nvidia is the biggest single weight in global growth ETFs, so this matters for index funds like GHHF and VDHG.",
+     "source": "Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
+    },
+    {
+     "headline": "Markets rethink the AI trade after the midterms",
+     "body": "The election result has hardened a political backlash against AI and data centres that investors were already pricing in.",
+     "source": "Guardian Economics",
+     "url": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash"
+    },
+    {
+     "headline": "RBA flags AI spending as a new inflation risk",
+     "body": "AI investment could lift demand faster than the economy can supply it, keeping inflation sticky.",
+     "source": "realestate.com.au News",
+     "url": "https://www.realestate.com.au/news/rba-eyes-up-ai-led-inflation-and-spending-upticks/"
+    },
+    {
+     "headline": "ASIC targets cold-callers pushing super switches",
+     "body": "Unlicensed telemarketers are moving people into riskier schemes; advice firms using them face licence action.",
+     "source": "ABC Business",
+     "url": "https://www.abc.net.au/news/2026-11-09/asic-warns-firms-using-lead-generators-to-push-super-switching/107356376"
+    }
+   ]
+  },
+  {
+   "id": "property",
+   "title": "Property",
+   "items": [
+    {
+     "headline": "Gold Coast beachfront sells for a Queensland record $43m",
+     "body": "A private businessman bought the mansion, beating the state's previous residential record.",
+     "source": "realestate.com.au News",
+     "url": "https://www.realestate.com.au/news/queensland-property-record-shattered-by-43m-gold-coast-beachfront-sale/"
+    },
+    {
+     "headline": "Brisbane clearance rates sag as rate hikes bite",
+     "body": "Auction clearances in Queensland are weak, although renovator homes are still drawing bidders.",
+     "source": "realestate.com.au News",
+     "url": "https://www.realestate.com.au/news/how-a-humble-family-home-is-fighting-brisbanes-low-clearance-rates/"
+    },
+    {
+     "headline": "El Niño summer threatens another big insurance bill",
+     "body": "Last summer's weather cost more than $385m in claims; insurers expect a hot, dry season.",
+     "source": "realestate.com.au News",
+     "url": "https://www.realestate.com.au/news/experts-warn-of-385m-insurance-hit-ahead-of-deadly-el-nino-summer/"
+    },
+    {
+     "headline": "$120,000 buys a 50-year lease in new co-housing model",
+     "body": "An Australian-first Queensland project gives older women secure long-term housing for a one-off payment, as rents outpace pensions.",
+     "source": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-09/queensland-sharing-friends-women-co-housing-project/107337800"
+    }
+   ]
+  },
+  {
+   "id": "health",
+   "title": "Health & Medicine",
+   "items": [
+    {
+     "headline": "NEJM: prehospital ECLS for refractory out-of-hospital cardiac arrest",
+     "body": "A trial of starting extracorporeal life support before hospital, with an accompanying editorial on bringing rapid reperfusion to more arrest patients. Directly relevant to your paramedicine background.",
+     "source": "NEJM",
+     "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602919?af=R&rss=currentIssue",
+     "kind": "Trial"
+    },
+    {
+     "headline": "NEJM: stopping statins in older adults without CVD",
+     "body": "A deprescribing trial testing whether primary-prevention statins can be safely discontinued in older patients.",
+     "source": "NEJM",
+     "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2606634?af=R&rss=currentIssue",
+     "kind": "Trial"
+    },
+    {
+     "headline": "NEJM: pelacarsen outcomes trial in high Lp(a)",
+     "body": "The long-awaited cardiovascular outcomes result for antisense Lp(a) lowering, alongside ziltivekimab (IL-6 inhibition) in atherosclerosis.",
+     "source": "NEJM",
+     "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2610159?af=R&rss=currentIssue",
+     "kind": "Trial"
+    },
+    {
+     "headline": "Grattan: specialist fees 'out of control and getting worse'",
+     "body": "Psychiatrists and dermatologists have the highest out-of-pocket gaps; Grattan wants governments to intervene. Specialist colleges partly agree.",
+     "source": "Medical Republic",
+     "url": "https://www.medicalrepublic.com.au/specialist-fees-out-of-control-and-getting-worse-grattan/130836"
+    },
+    {
+     "headline": "Cochrane: pharma payments linked to worse prescribing",
+     "body": "A systematic review found doctors who receive industry gifts or payments prescribe more and less appropriately.",
+     "source": "Croakey Health Media",
+     "url": "https://www.croakey.org/research-prompts-call-to-tackle-pharmaceutical-industry-promotion-as-a-commercial-determinant-of-health/"
+    },
+    {
+     "headline": "RACGP pitches specialist wait-time fix before NSW election",
+     "body": "Four months out from the March poll, GPs want parties to commit to cutting specialist queues.",
+     "source": "Medical Republic",
+     "url": "https://www.medicalrepublic.com.au/nsw-gps-pitch-fix-for-specialist-queues/130874"
+    },
+    {
+     "headline": "Hepatologists finally agree on a definition of ACLF",
+     "body": "A consensus definition of acute-on-chronic liver failure, after years of competing criteria.",
+     "source": "STAT News",
+     "url": "https://www.statnews.com/2026/11/09/acute-on-chronic-liver-failure-new-definition/?utm_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "science",
+   "title": "Science",
+   "items": [
+    {
+     "headline": "2026 on track to be the hottest year on record",
+     "body": "Scientists released the projection as COP31 opened; Nature reports the 1.5°C target is close to being overshot.",
+     "source": "BBC Science",
+     "url": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "headline": "Baxdrostat's effect lasts two years after stopping",
+     "body": "Patients with primary aldosteronism stayed in remission long after the aldosterone synthase inhibitor stopped, raising the prospect of a cure for a common cause of hypertension.",
+     "source": "Guardian Science",
+     "url": "https://www.theguardian.com/society/2026/nov/08/new-drug-high-blood-pressure-baxdrostat"
+    },
+    {
+     "headline": "NASA opens applications for moon astronauts",
+     "body": "A new generation will live and work on the lunar surface; applications close 3 December.",
+     "source": "Guardian Science",
+     "url": "https://www.theguardian.com/science/2026/nov/08/nasa-astronauts-moon-applications-open"
+    }
+   ]
+  },
+  {
+   "id": "local",
+   "title": "Dubbo & Central West",
+   "items": [
+    {
+     "headline": "Apprentice jockey Izzy Neale critical in Dubbo Hospital",
+     "body": "The 22-year-old rising star was seriously injured in a race fall in western NSW.",
+     "source": "Daily Liberal (Dubbo)",
+     "url": "https://www.dailyliberal.com.au/story/9387957/jockey-izzy-neale-critical-after-horror-race-fall-at-warren/?src=rss"
+    },
+    {
+     "headline": "Four locally trained doctors join the rescue squad",
+     "body": "Eight new members were inducted, including four doctors who trained in the region.",
+     "source": "Daily Liberal (Dubbo)",
+     "url": "https://www.dailyliberal.com.au/story/9387035/brodie-cafe-joins-dubbo-vra-rescue-to-follow-late-father/?src=rss"
+    },
+    {
+     "headline": "Universal preschool funding squeezes country preschools",
+     "body": "Celebrated in Sydney, the model is leaving regional preschools facing a funding shortfall.",
+     "source": "Daily Liberal (Dubbo)",
+     "url": "https://www.dailyliberal.com.au/story/9387817/central-west-preschools-face-nsw-funding-cuts-of-up-to-437k/?src=rss"
+    }
+   ]
+  }
+ ],
+ "opinion": [
+  {
+   "title": "Labor will have to change tactics if Andrew Hastie leads the Liberals",
+   "author": "Patricia Karvelas",
+   "outlet": "ABC",
+   "url": "https://www.abc.net.au/news/2026-11-09/andrew-hastie-coalition-opposition-leader/107360892",
+   "gist": "Hastie would be built to fight One Nation on its own turf, and Labor's playbook isn't ready for it.",
+   "lean": "Centre"
+  },
+  {
+   "title": "Victorian Labor: a 'credibility-free' zone",
+   "author": "Dight Canning",
+   "outlet": "The Spectator Australia",
+   "url": "https://www.spectator.com.au/2026/11/victorian-labor-a-credibility-free-zone/",
+   "gist": "Why federal Labor MPs are keeping their distance from the Allan government.",
+   "lean": "Right"
+  },
+  {
+   "title": "Interest rate hikes are a crude tool, until you look at the alternatives",
+   "author": "Jessica Irvine",
+   "outlet": "ABC",
+   "url": "https://www.abc.net.au/news/2026-11-09/are-there-alternatives-to-interest-rate-rises/107360716",
+   "gist": "Every other inflation lever is slower, more political, or both.",
+   "lean": "Centre"
+  },
+  {
+   "title": "Donald Trump defied populism to do what was right",
+   "author": "Rowan Dean",
+   "outlet": "The Spectator Australia",
+   "url": "https://www.spectator.com.au/2026/11/donald-trump-defied-populism-and-the-woke-right-podcasters-to-do-what-was-right/",
+   "gist": "A defence of Trump against his critics after the midterms.",
+   "lean": "Right"
+  },
+  {
+   "title": "What's more powerful than the politics of division? Listening",
+   "author": "Julianne Schultz",
+   "outlet": "Guardian Australia",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/08/listening-more-powerful-than-politics-of-division-us-midterms-australia-ntwnfb",
+   "gist": "The US result shows populism isn't inevitable; what Australia should take from it.",
+   "lean": "Left"
+  },
+  {
+   "title": "New Zealand's foreign policy could change, but not for weeks",
+   "author": "Anna Fifield",
+   "outlet": "Lowy Institute",
+   "url": "https://www.lowyinstitute.org/the-interpreter/new-zealand-s-foreign-policy-could-change-but-we-won-t-know-for-weeks",
+   "gist": "Election limbo leaves our closest neighbour without a voice at APEC and COP.",
+   "lean": "Centre"
+  }
+ ],
+ "radar": [
+  {
+   "date": "2026-11-10",
+   "label": "Russia–Ukraine–US peace talks",
+   "detail": "First round since February"
+  },
+  {
+   "date": "2026-11-20",
+   "label": "COP31 closes",
+   "detail": "Climate summit under way now"
+  },
+  {
+   "date": "2026-11-28",
+   "label": "Victorian state election",
+   "detail": "Live results here on the night"
+  },
+  {
+   "date": "2026-11-30",
+   "label": "NZ final election result",
+   "detail": "Approximate; coalition talks after"
+  },
+  {
+   "date": "2027-03-27",
+   "label": "NSW state election",
+   "detail": ""
+  }
+ ],
+ "tidbit": "The RBA's 6–3 vote in November is only visible because the new Monetary Policy Board, which replaced the old Reserve Bank Board in 2025, publishes how many members voted each way."
+}
