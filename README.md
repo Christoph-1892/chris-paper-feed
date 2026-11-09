@@ -33,4 +33,4 @@ A small, low-prominence "What's on locally" list for Dubbo and the Central West.
 `title` and `date` (yyyy-MM-dd) are required. Everything else is optional. Past events are hidden by the app.
 
 ### Look up requests (see ASK.md)
-The app writes `requests/<id>.json` when Chris asks for a briefing on a topic. Each edition run, answer every open request into `answers/<id>.json` as described in ASK.md.
+The app writes `requests/<id>.json` when Chris asks for a briefing on a topic. Each edition run, answer every open request by writing `feed/answers/<id>.json` on the tick `paper-feed` branch; the publisher mirrors it here as `answers/<id>.json`. Details in ASK.md.
